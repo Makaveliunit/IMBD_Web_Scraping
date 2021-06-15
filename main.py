@@ -103,17 +103,17 @@ for i in range(len(reviews_page)):
 #splits positive with negative comments
 for i in range(len(all_comment)):
     if int(reviews_ratings[i]) >= 8:
-        positive_words.append(all_comment[i])
+        positive_words.append(all_comment[i].replace('.', ' '))
         positive_titles.append(titles_list[i])
     elif int(reviews_ratings[i]) < 8 and int(reviews_ratings[i]) != 0:
-        negative_words.append(all_comment[i])
+        negative_words.append(all_comment[i].replace('.', ' '))
         negative_titles.append(titles_list[i])
 
 
 
-positive_words = ''.join(positive_words)
+positive_words = ' '.join(positive_words)
 positive_words = positive_words.lower().split()
-negative_words = ''.join(negative_words)
+negative_words = ' '.join(negative_words)
 negative_words = negative_words.lower().split()
 
 training_data_positive = []
@@ -126,16 +126,16 @@ testing_data_negative = []
 for i in range(len(positive_words)):
     positive_words[i] = re.sub('[\W_]+', ' ', positive_words[i])
     if i < int(len(positive_words)/2):
-        training_data_positive.append(positive_words[i])
+        training_data_positive.append(positive_words[i].replace(' ',''))
     else:
-        testing_data_positive.append(positive_words[i])
+        testing_data_positive.append(positive_words[i].replace(' ',''))
 
 for i in range(len(negative_words)):
     negative_words[i] = re.sub('[\W_]+', ' ', negative_words[i])
     if i < int(len(negative_words)/2):
-        training_data_negative.append(negative_words[i])
+        training_data_negative.append(negative_words[i].replace(' ',''))
     else:
-        testing_data_negative.append(negative_words[i])
+        testing_data_negative.append(negative_words[i].replace(' ',''))
 
 
 #put both in distinct vocabulary
@@ -230,6 +230,8 @@ def compute(wi):
     else:
         return 'Negative'
 
+
+
 title_neg_prob = []
 title_pos_prob = []
 
@@ -285,9 +287,6 @@ with open('results.txt', 'w') as file:
     file.write('Prediction accuracy = ' + str('{:.2f}'.format((correct_results2/(len(positive_titles) + len(negative_titles)))*100) + '%'))
 
 
-
-
-
 #predictions and test
 for i in range(len(testing_data_positive)):
     result = compute(testing_data_positive[i])
@@ -306,10 +305,159 @@ for i in range(len(testing_data_negative)):
 
 print('Prediction accuracy = ' + str('{:.2f}'.format((correct_results/(len(testing_data_positive) + len(testing_data_negative)))*100) + '%'))
 
+#function that trims down the data to [num] length
+def trim_down(num):
+    for x in training_data_vocabulary[:]:
+        if len(x) < num:
+            word_count_p.pop(training_data_vocabulary.index(x))
+            word_count_n.pop(training_data_vocabulary.index(x))
+            training_data_vocabulary.remove(x)
+            while x in testing_data_positive:
+                testing_data_positive.remove(x)
+            while x in testing_data_negative:
+                testing_data_negative.remove(x)
+            while x in training_data_positive:
+                training_data_positive.remove(x)
+            while x in training_data_negative:
+                training_data_negative.remove(x)
 
+#function that trims up the data to [num] length
+def trim_up(num):
+    for x in training_data_vocabulary[:]:
+        if len(x) > num:
+            word_count_p.pop(training_data_vocabulary.index(x))
+            word_count_n.pop(training_data_vocabulary.index(x))
+            training_data_vocabulary.remove(x)
+            while x in testing_data_positive:
+                testing_data_positive.remove(x)
+            while x in testing_data_negative:
+                testing_data_negative.remove(x)
+            while x in training_data_positive:
+                training_data_positive.remove(x)
+            while x in training_data_negative:
+                training_data_negative.remove(x)
 
+#trims the list down to 3+ characters only per words
+trim_down(3)
 
+# NEW MODEL
+# writes on txt No. WordName(wi)
+# Frequency in Positive, Conditional probability of P(wi|positive),
+with open('length-model.txt', 'w') as file:
+    file.write('\n\n\n length <= 2 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
+    for i in range(int(len(training_data_vocabulary))):
+        file.write('No.' + str(i + 1) + '  ' + str(training_data_vocabulary[i]) + '\n')
+        file.write(
+            str(word_count_p[i]) + ', ' + str(
+                '{:.5f}'.format(word_count_p[i] / len(training_data_positive))) + ', ' + str(
+                word_count_n[i]) + ', ' + str(
+                '{:.5f}'.format(word_count_n[i] / len(training_data_negative))) + '\n')
 
+correct_results2 = 0
+title_neg_prob = []
+title_pos_prob = []
+
+# predictions and test
+with open('length-results.txt', 'w') as file:
+    file.write('\n\n\n length <= 2 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
+    for i in range(len(testing_data_positive)):
+        result = compute_titles(testing_data_positive[i])
+        if result == 'Positive':
+            correct_results2 += 1
+        try:
+            file.write('No.' + str(i + 1) + '   ' + str(testing_data_positive[i]) + '\n')
+            file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(
+                result) + ', Positive, ' + isEqual(result, 'Positive') + '\n\n')
+        except:
+            continue
+    for i in range(len(testing_data_negative)):
+        result = compute_titles(testing_data_negative[i])
+        if result == 'Negative':
+            correct_results2 += 1
+        try:
+            file.write('No.' + str(i + 1) + '   ' + str(testing_data_negative[i]) + '\n')
+            file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(
+                result) + ', Negative, ' + isEqual(result, 'Negative') + '\n\n')
+        except:
+            continue
+    file.write('Prediction accuracy = ' + str('{:.2f}'.format(
+        (correct_results2 / (len(testing_data_positive) + len(testing_data_negative))) * 100) + '%'))
+
+trim_down(5)
+
+#NEW MODEL
+#writes on txt No. WordName(wi)
+#Frequency in Positive, Conditional probability of P(wi|positive),
+with open('length-model.txt', 'a') as file:
+    file.write('\n\n\n length <= 4 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
+    for i in range(int(len(training_data_vocabulary))):
+        file.write('No.' + str(i + 1) + '  ' + str(training_data_vocabulary[i]) + '\n')
+        file.write(
+            str(word_count_p[i]) + ', ' + str('{:.5f}'.format(word_count_p[i] / len(training_data_positive))) + ', ' + str(
+                word_count_n[i]) + ', ' + str('{:.5f}'.format(word_count_n[i] / len(training_data_negative))) + '\n')
+
+correct_results2 = 0
+title_neg_prob = []
+title_pos_prob = []
+
+#predictions and test
+with open('length-results.txt', 'a') as file:
+    file.write('\n\n\n length <= 4 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
+    for i in range(len(testing_data_positive)):
+        result = compute_titles(testing_data_positive[i])
+        if result == 'Positive':
+            correct_results2 += 1
+        try:
+            file.write('No.' + str(i + 1) + '   ' + str(testing_data_positive[i]) + '\n')
+            file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Positive, ' + isEqual(result, 'Positive') + '\n\n')
+        except: continue
+    for i in range(len(testing_data_negative)):
+        result = compute_titles(testing_data_negative[i])
+        if result == 'Negative':
+            correct_results2 += 1
+        try:
+            file.write('No.' + str(i + 1) + '   ' + str(testing_data_negative[i]) + '\n')
+            file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Negative, ' + isEqual(result, 'Negative') + '\n\n')
+        except: continue
+    file.write('Prediction accuracy = ' + str('{:.2f}'.format((correct_results2/(len(testing_data_positive) + len(testing_data_negative)))*100) + '%'))
+
+trim_up(8)
+
+#NEW MODEL
+#writes on txt No. WordName(wi)
+#Frequency in Positive, Conditional probability of P(wi|positive),
+with open('length-model.txt', 'a') as file:
+    file.write('\n\n\n length >= 9  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
+    for i in range(int(len(training_data_vocabulary))):
+        file.write('No.' + str(i + 1) + '  ' + str(training_data_vocabulary[i]) + '\n')
+        file.write(
+            str(word_count_p[i]) + ', ' + str('{:.5f}'.format(word_count_p[i] / len(training_data_positive))) + ', ' + str(
+                word_count_n[i]) + ', ' + str('{:.5f}'.format(word_count_n[i] / len(training_data_negative))) + '\n')
+
+correct_results2 = 0
+title_neg_prob = []
+title_pos_prob = []
+
+#predictions and test
+with open('length-results.txt', 'a') as file:
+    file.write('\n\n\n length >= 9  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
+    for i in range(len(testing_data_positive)):
+        result = compute_titles(testing_data_positive[i])
+        if result == 'Positive':
+            correct_results2 += 1
+        try:
+            file.write('No.' + str(i + 1) + '   ' + str(testing_data_positive[i]) + '\n')
+            file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Positive, ' + isEqual(result, 'Positive') + '\n\n')
+        except: continue
+    for i in range(len(testing_data_negative)):
+        result = compute_titles(testing_data_negative[i])
+        if result == 'Negative':
+            correct_results2 += 1
+        try:
+            file.write('No.' + str(i + 1) + '   ' + str(testing_data_negative[i]) + '\n')
+            file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Negative, ' + isEqual(result, 'Negative') + '\n\n')
+        except: continue
+    file.write('Prediction accuracy = ' + str('{:.2f}'.format((correct_results2/(len(testing_data_positive) + len(testing_data_negative)))*100) + '%'))
 
 #tweak set: all words above 400 dupes removed for better accuracy
 print('Sample of how many reviews?(distinct): ' + str(len(all_comment)))
