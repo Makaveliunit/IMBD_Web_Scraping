@@ -5,11 +5,10 @@
 
 import math
 import re
-import numpy as np
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import random as rn
+
 
 from idna import unicode
 
@@ -103,10 +102,10 @@ for i in range(len(reviews_page)):
 #splits positive with negative comments
 for i in range(len(all_comment)):
     if int(reviews_ratings[i]) >= 8:
-        positive_words.append(all_comment[i].replace('.', ' '))
+        positive_words.append(all_comment[i].replace('.', ' ').replace('!', ' ').replace('?', ' ').replace('-', ' '))
         positive_titles.append(titles_list[i])
     elif int(reviews_ratings[i]) < 8 and int(reviews_ratings[i]) != 0:
-        negative_words.append(all_comment[i].replace('.', ' '))
+        negative_words.append(all_comment[i].replace('.', ' ').replace('!', ' ').replace('?', ' ').replace('-', ' '))
         negative_titles.append(titles_list[i])
 
 
