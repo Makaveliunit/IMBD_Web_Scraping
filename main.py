@@ -8,7 +8,8 @@ import re
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 
 from idna import unicode
 
@@ -352,28 +353,41 @@ with open('length-model.txt', 'w') as file:
                 word_count_n[i]) + ', ' + str(
                 '{:.5f}'.format(word_count_n[i] / len(training_data_negative))) + '\n')
 
+denominator = 0
 correct_results2 = 0
 title_neg_prob = []
 title_pos_prob = []
 
-# predictions and test
+
+plot_x = []
+plot_y = []
+
+for i in range(len(testing_data_positive) + len(testing_data_negative)):
+    plot_x.append(i)
+
+
+# predictions and test bayes classifier and 2.2
 with open('length-results.txt', 'w') as file:
     file.write('\n\n\n length <= 2 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
     for i in range(len(testing_data_positive)):
+        denominator += 1
         result = compute_titles(testing_data_positive[i])
         if result == 'Positive':
             correct_results2 += 1
         try:
+            plot_y.append((correct_results2/denominator) * 100)
             file.write('No.' + str(i + 1) + '   ' + str(testing_data_positive[i]) + '\n')
             file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(
                 result) + ', Positive, ' + isEqual(result, 'Positive') + '\n\n')
         except:
             continue
     for i in range(len(testing_data_negative)):
+        denominator += 1
         result = compute_titles(testing_data_negative[i])
         if result == 'Negative':
             correct_results2 += 1
         try:
+            plot_y.append((correct_results2 / denominator) * 100)
             file.write('No.' + str(i + 1) + '   ' + str(testing_data_negative[i]) + '\n')
             file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(
                 result) + ', Negative, ' + isEqual(result, 'Negative') + '\n\n')
@@ -381,6 +395,13 @@ with open('length-results.txt', 'w') as file:
             continue
     file.write('Prediction accuracy = ' + str('{:.2f}'.format(
         (correct_results2 / (len(testing_data_positive) + len(testing_data_negative))) * 100) + '%'))
+
+
+
+plt.plot(plot_x, plot_y)
+plt.ylabel('Prediction % accuracy')
+plt.xlabel('Processed words')
+
 
 trim_down(5)
 
@@ -398,27 +419,41 @@ with open('length-model.txt', 'a') as file:
 correct_results2 = 0
 title_neg_prob = []
 title_pos_prob = []
+denominator = 0
+plot_y.clear()
+plot_x.clear()
 
 #predictions and test
 with open('length-results.txt', 'a') as file:
     file.write('\n\n\n length <= 4 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
     for i in range(len(testing_data_positive)):
+        denominator += 1
         result = compute_titles(testing_data_positive[i])
         if result == 'Positive':
             correct_results2 += 1
         try:
+            plot_y.append((correct_results2 / denominator) * 100)
             file.write('No.' + str(i + 1) + '   ' + str(testing_data_positive[i]) + '\n')
             file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Positive, ' + isEqual(result, 'Positive') + '\n\n')
         except: continue
     for i in range(len(testing_data_negative)):
+        denominator += 1
         result = compute_titles(testing_data_negative[i])
         if result == 'Negative':
             correct_results2 += 1
         try:
+            plot_y.append((correct_results2 / denominator) * 100)
             file.write('No.' + str(i + 1) + '   ' + str(testing_data_negative[i]) + '\n')
             file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Negative, ' + isEqual(result, 'Negative') + '\n\n')
         except: continue
     file.write('Prediction accuracy = ' + str('{:.2f}'.format((correct_results2/(len(testing_data_positive) + len(testing_data_negative)))*100) + '%'))
+
+
+for i in range(len(testing_data_positive) + len(testing_data_negative)):
+    plot_x.append(i)
+plt.plot(plot_x, plot_y)
+
+
 
 trim_up(8)
 
@@ -436,27 +471,49 @@ with open('length-model.txt', 'a') as file:
 correct_results2 = 0
 title_neg_prob = []
 title_pos_prob = []
+denominator = 0
+plot_y.clear()
+plot_x.clear()
 
 #predictions and test
 with open('length-results.txt', 'a') as file:
     file.write('\n\n\n length >= 9  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX \n\n\n')
     for i in range(len(testing_data_positive)):
+        denominator += 1
         result = compute_titles(testing_data_positive[i])
         if result == 'Positive':
             correct_results2 += 1
         try:
+            plot_y.append((correct_results2 / denominator) * 100)
             file.write('No.' + str(i + 1) + '   ' + str(testing_data_positive[i]) + '\n')
             file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Positive, ' + isEqual(result, 'Positive') + '\n\n')
         except: continue
     for i in range(len(testing_data_negative)):
+        denominator += 1
         result = compute_titles(testing_data_negative[i])
         if result == 'Negative':
             correct_results2 += 1
         try:
+            plot_y.append((correct_results2 / denominator) * 100)
             file.write('No.' + str(i + 1) + '   ' + str(testing_data_negative[i]) + '\n')
             file.write(str(title_pos_prob[i]) + ', ' + str(title_neg_prob[i]) + ', ' + str(result) + ', Negative, ' + isEqual(result, 'Negative') + '\n\n')
         except: continue
     file.write('Prediction accuracy = ' + str('{:.2f}'.format((correct_results2/(len(testing_data_positive) + len(testing_data_negative)))*100) + '%'))
+
+for i in range(len(testing_data_positive) + len(testing_data_negative)):
+    plot_x.append(i)
+plt.plot(plot_x, plot_y)
+
+blue_patch = mpatches.Patch(color='blue', label='n > 2')
+orange_patch = mpatches.Patch(color='orange', label='n > 4')
+green_patch = mpatches.Patch(color='green', label='n > 4, n < 9')
+plt.legend(handles=[blue_patch, orange_patch, green_patch])
+
+
+plt.grid()
+plt.show()
+
+
 
 #tweak set: all words above 400 dupes removed for better accuracy
 print('Sample of how many reviews?(distinct): ' + str(len(all_comment)))
