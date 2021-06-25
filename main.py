@@ -249,10 +249,10 @@ def compute_titles(wi):
         if x in training_data_vocabulary:
              positive_word_count = (word_count_p[training_data_vocabulary.index(x)])  #smoothing
              negative_word_count = (word_count_n[training_data_vocabulary.index(x)]) #smoothing
-        positive_score += math.log10(0.82) + math.log10(positive_word_count/len(training_data_positive))
-        negative_score += math.log10(0.18) + math.log10(negative_word_count/len(training_data_negative))
-        positive_prob += positive_word_count/len(training_data_positive)
-        negative_prob += negative_word_count/len(training_data_negative)
+        positive_score += math.log10(0.82) + math.log10(positive_word_count/(len(training_data_positive) + 3000))
+        negative_score += math.log10(0.18) + math.log10(negative_word_count/(len(training_data_negative) + 400))
+        positive_prob += positive_word_count/(len(training_data_positive) + 3000)
+        negative_prob += negative_word_count/(len(training_data_negative) + 400)
     title_pos_prob.append('{:.5f}'.format(positive_prob))
     title_neg_prob.append('{:.5f}'.format(negative_prob))
     if positive_score >= negative_score:
@@ -504,6 +504,7 @@ for i in range(len(testing_data_positive) + len(testing_data_negative)):
     plot_x.append(i)
 plt.plot(plot_x, plot_y)
 
+#grid legend
 blue_patch = mpatches.Patch(color='blue', label='n > 2')
 orange_patch = mpatches.Patch(color='orange', label='n > 4')
 green_patch = mpatches.Patch(color='green', label='n > 4, n < 9')
@@ -511,7 +512,7 @@ plt.legend(handles=[blue_patch, orange_patch, green_patch])
 
 
 plt.grid()
-plt.show()
+
 
 
 
@@ -527,3 +528,4 @@ print('testing + data count(with duplicates): ' + str(len(testing_data_positive)
 print('testing - data count(with duplicates): ' + str(len(testing_data_negative)))
 print('training vocabulary(DISTINCT): ' + str(len(training_data_vocabulary)))
 
+plt.show()

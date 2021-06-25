@@ -1,2365 +1,289 @@
-No.1    Slow Start...But Set Up Perfectly!
-0.00391, 0.00340, Positive, Positive, Right
+No.1    Storytelling At Its Finest
+0.00218, 0.00159, Positive, Positive, Right
 
-No.2    Wow!
-0.00014, 0.00018, Positive, Positive, Right
+No.2    Fire Meets Ice
+0.00218, 0.00112, Positive, Positive, Right
 
-No.3    There you have it
-0.00008, 0.00036, Negative, Positive, Wrong
+No.3    Even the word PERFECT can't describe how amazing and stunning this episode was !!
+0.03068, 0.02439, Positive, Positive, Right
 
-No.4    Not what I expected, but I enjoyed it
-0.00082, 0.00179, Positive, Positive, Right
+No.4    Best one this season
+0.01876, 0.00973, Positive, Positive, Right
 
-No.5    Great way to carry the story forward and backward!
-0.01156, 0.01315, Positive, Positive, Right
+No.5    The perfect Game of Thrones episode
+0.02108, 0.00925, Positive, Positive, Right
 
-No.6    It's all good, man.
-0.00353, 0.00510, Positive, Positive, Right
+No.6    Regal justice
+0.00204, 0.00080, Positive, Positive, Right
 
-No.7    Just perfection
-0.00012, 0.00018, Positive, Positive, Right
+No.7    Two Queens and two styles of justice
+0.01410, 0.00733, Positive, Positive, Right
 
-No.8    I Hope It Isn't a Constant Comparison to "Breaking Bad"
-0.00277, 0.00412, Positive, Positive, Right
+No.8    The song is about to begin!
+0.00160, 0.00255, Negative, Positive, Wrong
 
-No.9    Slipping Jimmy's journey begins !
-0.00045, 0.00081, Positive, Positive, Right
+No.9    Tyrion: I trust the eyes of an honest man more than I trust what everybody knows.
+0.01003, 0.00574, Positive, Positive, Right
 
-No.10    An Explosive Beginning!
-0.00051, 0.00045, Positive, Positive, Right
+No.10    And now the rains weep o'er our halls
+0.00131, 0.00143, Positive, Positive, Right
 
-No.11    Amazing Prequel, Better Show
-0.00748, 0.00662, Positive, Positive, Right
+No.11    Classic game of thrones episode
+0.02007, 0.00877, Positive, Positive, Right
 
-No.12    One of my favourite opening episodes to a show
-0.02133, 0.01906, Positive, Positive, Right
+No.12    An awkward meeting for potential allies
+0.00364, 0.00175, Positive, Positive, Right
 
-No.13    Strong start
-0.00077, 0.00045, Positive, Positive, Right
+No.13    Back on track - Spoiler-free
+0.00480, 0.00909, Negative, Positive, Wrong
 
-No.14    A Skeptical Viewer
-0.00031, 0.00125, Positive, Positive, Right
+No.14    Back on track
+0.00436, 0.00861, Negative, Positive, Wrong
 
-No.15    wasn't expecting him to answer the door!(thought they shot him in BB(hank?))
-0.00430, 0.00322, Positive, Positive, Right
+No.15    Game of Thrones Continues
+0.01134, 0.00271, Positive, Positive, Right
 
-No.16    Yes! TightTightTight.
-0.00039, 0.00018, Positive, Positive, Right
+No.16    Ice and Fire
+0.00276, 0.00143, Positive, Positive, Right
 
-No.17    Great episode, better than the pilot
-0.01650, 0.01351, Positive, Positive, Right
+No.17    With intelligent interaction and even more superb writing, this episode exceeded my expectations
+0.04740, 0.03731, Positive, Positive, Right
 
-No.18    If Vince was setting out to outdo himself, he succeeded
-0.00336, 0.00447, Positive, Positive, Right
+No.18    The Queens and the King
+0.00596, 0.00159, Positive, Positive, Right
 
-No.19    The Ball Is Now Rolling
-0.00020, 0.00098, Negative, Positive, Wrong
+No.19    This episode is on fire
+0.02908, 0.01881, Positive, Positive, Right
 
-No.20    Review of Season 1: Episodes 1-2
-0.00581, 0.00778, Positive, Positive, Right
+No.20    Absolutely Phenomenal - Top 5 Episode
+0.01134, 0.00797, Positive, Positive, Right
 
-No.21    Gets Off the Ground Running!
-0.00190, 0.00206, Positive, Positive, Right
+No.21    One of the greatest episodes in Game of Thrones!
+0.03155, 0.01276, Positive, Positive, Right
 
-No.22    Don't call it a prequel or a sequel or a spin off
-0.00979, 0.00904, Positive, Positive, Right
+No.22    Spoils of War - 10/10
+0.00334, 0.00223, Positive, Positive, Right
 
-No.23    It's a Hard World
-0.00114, 0.00161, Positive, Positive, Right
+No.23    I Will Fight For You
+0.00204, 0.00175, Positive, Positive, Right
 
-No.24    1st Half = Amazing, 2nd Half = Eh
-0.00224, 0.00251, Positive, Positive, Right
+No.24    WHOAA !!! Jawdropping episode !! Could this get any better ?
+0.01469, 0.01642, Negative, Positive, Wrong
 
-No.25    Already at a high
-0.00186, 0.00143, Positive, Positive, Right
+No.25    Hell Fire (minor spoilers)
+0.00320, 0.00191, Positive, Positive, Right
 
-No.26    Going to keep watching
-0.00345, 0.00447, Positive, Positive, Right
+No.26    Loved it.
+0.00058, 0.00064, Positive, Positive, Right
 
-No.27    It's confusing !
-0.00006, 0.00045, Negative, Positive, Wrong
+No.27    Dracarys
+0.00015, 0.00016, Positive, Positive, Right
 
-No.28    Another great episode!
-0.00752, 0.00447, Positive, Positive, Right
+No.28    When you think it cant get better
+0.00422, 0.00574, Negative, Positive, Wrong
 
-No.29    Excelente!
-0.00002, 0.00009, Negative, Positive, Wrong
+No.29    Heart Pumping Sequence! Treat for your eyes!
+0.00320, 0.00112, Positive, Positive, Right
 
-No.30    And the training wheels come off
-0.00131, 0.00286, Positive, Positive, Right
+No.30    Game of Thrones is Still the Best Thing on Television.
+0.02152, 0.00702, Positive, Positive, Right
 
-No.31    The Best Episode So Far!
-0.00622, 0.00456, Positive, Positive, Right
+No.31    Masterpiece
+0.00029, 0.00032, Positive, Positive, Right
 
-No.32    This Really Is Getting Great
-0.00938, 0.00716, Positive, Positive, Right
+No.32    The Best Episode of Season 07.
+0.03330, 0.02232, Positive, Positive, Right
 
-No.33    Here's Johnny!
-0.00006, 0.00027, Negative, Positive, Wrong
+No.33    Breathtaking!
+0.00058, 0.00016, Positive, Positive, Right
 
-No.34    Jimmy, Don't Mess with Nacho Vargas!
-0.00139, 0.00161, Positive, Positive, Right
+No.34    Easily one of the best episodes of the show.
+0.02923, 0.01738, Positive, Positive, Right
 
-No.35    If You've Got the Money, Honey, I've Got the Time
-0.00707, 0.01083, Positive, Positive, Right
+No.35    a breathtaking, you would really jump from the much thrill you're going to observe!!
+0.02254, 0.02248, Positive, Positive, Right
 
-No.36    first time viewing episode 3:'NACHO'>>
-0.00705, 0.00662, Positive, Positive, Right
+No.36    The Best Battle episode
+0.01512, 0.00909, Positive, Positive, Right
 
-No.37    Really great
-0.00593, 0.00412, Positive, Positive, Right
+No.37    Epicness at its glory
+0.00073, 0.00064, Positive, Positive, Right
 
-No.38    Just a reflection of a genius writing to genius plot .
-0.00402, 0.00251, Positive, Positive, Right
+No.38    Epic
+0.00029, 0.00048, Negative, Positive, Wrong
 
-No.39    Review of Season 1: Episodes 3-4
-0.00497, 0.00537, Positive, Positive, Right
+No.39    Chaos isn't a pit, Chaos is a ladder.
+0.00131, 0.00143, Positive, Positive, Right
 
-No.40    Once again, pretty darn good.
-0.00308, 0.00492, Positive, Positive, Right
+No.40    The Episode that Every Fan Was Waiting for
+0.02138, 0.01451, Positive, Positive, Right
 
-No.41    Saul Goes Aggressive
-0.00104, 0.00134, Positive, Positive, Right
+No.41    Family reunions and an intense battle
+0.00465, 0.00319, Positive, Positive, Right
 
-No.42    Jimmy And His Schemes!
-0.00010, 0.00045, Negative, Positive, Wrong
+No.42    Holey ... sweet ... Jesus!
+0.00073, 0.00048, Positive, Positive, Right
 
-No.43    More Comedy Than Dark, But Still Entertaining
-0.00300, 0.00206, Positive, Positive, Right
+No.43    The first real fantasy anti-war movie ever
+0.00771, 0.00494, Positive, Positive, Right
 
-No.44    Stick It To HHM
-0.00043, 0.00036, Positive, Positive, Right
+No.1    Still brilliant, but writing is starting to get sloppy
+0.00218, 0.00159, Positive, Negative, Wrong
 
-No.45    Still better that AOT's hero
-0.01439, 0.01351, Positive, Positive, Right
+No.2    The Phantom Menace
+0.00218, 0.00112, Negative, Negative, Right
 
-No.46    Better Call Breaking Bad
-0.01172, 0.01029, Positive, Positive, Right
+No.3    No space and time concept, everything's a rush
+0.03068, 0.02439, Negative, Negative, Right
 
-No.47    *Spoiler Hero was awesome episode and its S'all-in-the-making
-0.00308, 0.00206, Positive, Positive, Right
+No.4    this show has gone way down without the books
+0.01876, 0.00973, Negative, Negative, Right
 
-No.48    Another strong one
-0.00493, 0.00456, Positive, Positive, Right
+No.5    Hollywood's cliché
+0.02108, 0.00925, Negative, Negative, Right
 
-No.49    Mid-season, not one bad episode yet
-0.01246, 0.01262, Positive, Positive, Right
+No.6    What happened to the "Game" in "Game of Thrones"?
+0.00204, 0.00080, Positive, Negative, Wrong
 
-No.50    Calm and Collective!
-0.00020, 0.00045, Positive, Positive, Right
+No.7    The right ending feels wrong
+0.01410, 0.00733, Negative, Negative, Right
 
-No.51    Get Your Will by James McGill!
-0.01191, 0.01360, Positive, Positive, Right
+No.8    D&D
+0.00160, 0.00255, Positive, Negative, Wrong
 
-No.52    Life Is Hard!
-0.00220, 0.00394, Positive, Positive, Right
+No.9    Visually compelling, but fatally undermined by the context
+0.01003, 0.00574, Positive, Negative, Wrong
 
-No.53    After Uno, Mijo, Nacho, Hero comes "Alpine Shepherd Boy"
-0.00243, 0.00188, Positive, Positive, Right
+No.10    Can we have season 8 reshoot? Please.
+0.00131, 0.00143, Negative, Negative, Right
 
-No.55    Fine
-0.00016, 0.00018, Positive, Positive, Right
+No.11    Why this episode made no sense.
+0.02007, 0.00877, Negative, Negative, Right
 
-No.56    A perfect hour of Television
-0.00122, 0.00134, Positive, Positive, Right
+No.12    A visual masterpiece with mediocre writing
+0.00364, 0.00175, Positive, Negative, Wrong
 
-No.57    Great writing brings forth the best acting I can remember.
-0.01117, 0.00653, Positive, Positive, Right
+No.13    Dany is not the only crazy
+0.00480, 0.00909, Negative, Negative, Right
 
-No.58    Spellbound. Jonnathan Banks always brings out the badass but vulnerable mike so good.
-0.00575, 0.00671, Positive, Positive, Right
+No.14    Throwing out of the window 7s of character buildup
+0.00436, 0.00861, Positive, Negative, Wrong
 
-No.59    Enlightens Mike On The Inside & McGill Makes An Important Choice
-0.00451, 0.00456, Positive, Positive, Right
+No.15    Am I missing something?
+0.01134, 0.00271, Negative, Negative, Right
 
-No.60    A masterclass of television
-0.00053, 0.00072, Positive, Positive, Right
+No.16    Years of character building thrown away for shock value
+0.00276, 0.00143, Negative, Negative, Right
 
-No.61    The Most Critical Episode Thus Far
-0.00161, 0.00188, Positive, Positive, Right
+No.17    A glorified view of how bad writing can be
+0.04740, 0.03731, Positive, Negative, Wrong
 
-No.62    A movie potential
-0.00029, 0.00098, Positive, Positive, Right
+No.18    7 seasons of character development and story telling for no reason
+0.00596, 0.00159, Negative, Negative, Right
 
-No.63    Gilligan and Gould in the writers hall of fame
-0.00538, 0.00465, Positive, Positive, Right
+No.19    Episode where the shows is Ruined completely
+0.02908, 0.01881, Positive, Negative, Wrong
 
-No.64    Step into the dark
-0.00071, 0.00063, Positive, Positive, Right
+No.20    What was the point?
+0.01134, 0.00797, Negative, Negative, Right
 
-No.65    The Birth of Mike Ehrmentraut
-0.00020, 0.00045, Positive, Positive, Right
+No.21    Remember?
+0.03155, 0.01276, Negative, Negative, Right
 
-No.66    Leading Mike
-0.00039, 0.00054, Positive, Positive, Right
+No.22    What's the point Dany's army?
+0.00334, 0.00223, Negative, Negative, Right
 
-No.67    10/10
-0.00063, 0.00215, Positive, Positive, Right
+No.23    The show ended in S7 for me
+0.00204, 0.00175, Negative, Negative, Right
 
-No.68    Banks..he stole the show
-0.00159, 0.00063, Positive, Positive, Right
+No.24    Mixed feelings: The Dragon can be seen as a metaphor
+0.01469, 0.01642, Negative, Negative, Right
 
-No.69    Mike, Mike, Mike
-0.00006, 0.00027, Negative, Positive, Wrong
+No.25    What happened...
+0.00320, 0.00191, Positive, Negative, Wrong
 
-No.70    Review of Season 1: Episodes 5-6
-0.00475, 0.00492, Positive, Positive, Right
+No.26    Season 8 is a slippery slide going from bad to worse.
+0.00058, 0.00064, Negative, Negative, Right
 
-No.71    Award winning performance from Jonathan Banks
-0.00259, 0.00116, Positive, Positive, Right
+No.27    Can't forgive the rushed writing
+0.00015, 0.00016, Negative, Negative, Right
 
-No.72    5 Episodes in, Better Call Saul reaches its stride and goes beyond its sister series
-0.01709, 0.01566, Positive, Positive, Right
+No.28    Why do I still bother watching?
+0.00422, 0.00574, Positive, Negative, Wrong
 
-No.73    Beautiful
-0.00020, 0.00009, Positive, Positive, Right
+No.29    Worst than Dexter
+0.00320, 0.00112, Positive, Negative, Wrong
 
-No.74    Can't perfect perfection
-0.00067, 0.00072, Positive, Positive, Right
+No.30    Lore Breaking and Ignores Source Material
+0.02152, 0.00702, Negative, Negative, Right
 
-No.75    Good episode that highlights Jonathan Banks' acting skill very well
-0.01582, 0.01718, Positive, Positive, Right
+No.31    Massive Budget, Massive Wait, Massive Letdown
+0.00029, 0.00032, Negative, Negative, Right
 
-No.76    This episode really stands on its own
-0.00322, 0.00313, Positive, Positive, Right
+No.32    I'm not mad, just disappointed
+0.03330, 0.02232, Negative, Negative, Right
 
-No.77    Mike's Emotional Backstory!
-0.00027, 0.00036, Positive, Positive, Right
+No.33    Feels like D&D are just trolling us now
+0.00058, 0.00016, Positive, Negative, Wrong
 
-No.78    incredibile
-0.00002, 0.00009, Negative, Positive, Wrong
+No.34    I have to change my rating
+0.02923, 0.01738, Negative, Negative, Right
 
-No.79    This episoed
-0.00004, 0.00018, Negative, Positive, Wrong
+No.35    Wow!! The Night King is not even an afterthought!!
+0.02254, 0.02248, Positive, Negative, Wrong
 
-No.80    Big men give their dream for good cause
-0.00483, 0.00626, Positive, Positive, Right
+No.36    Dumb and Dumber
+0.01512, 0.00909, Positive, Negative, Wrong
 
-No.81    Remarkably good episode as expected
-0.00783, 0.01244, Positive, Positive, Right
+No.37    This doesn't feel like GoT anymore.
+0.00073, 0.00064, Positive, Negative, Wrong
 
-No.82    Getting better and better!
-0.01052, 0.00984, Positive, Positive, Right
+No.38    This episode outright angered me
+0.00029, 0.00048, Positive, Negative, Wrong
 
-No.83    Great episode
-0.00659, 0.00376, Positive, Positive, Right
+No.39    The shark didn't just jump, it is flying.
+0.00131, 0.00143, Positive, Negative, Wrong
 
-No.84    Great episode!
-0.00659, 0.00376, Positive, Positive, Right
+No.40    I'm not sure I am watching the same show, is this a parody of GoT?
+0.02138, 0.01451, Negative, Negative, Right
 
-No.85    Bob Odenkirk Is Fire!!
-0.00298, 0.00098, Positive, Positive, Right
+No.41    Did HBO Honestly Believe People Would Like This???
+0.00465, 0.00319, Negative, Negative, Right
 
-No.86    No Good Act Goes Unpunished
-0.00371, 0.00546, Positive, Positive, Right
+No.42    Sad
+0.00073, 0.00048, Negative, Negative, Right
 
-No.87    Solid
-0.00031, 0.00018, Positive, Positive, Right
+No.43    Guess GoT means Game of Teleportation now.
+0.00771, 0.00494, Positive, Negative, Wrong
 
-No.88    Exceptional installment, looking good for the McGill brothers!
-0.01089, 0.01360, Positive, Positive, Right
+No.44    I feel sorry for GRRM
+0.00756, 0.00749, Negative, Negative, Right
 
-No.89    Is This the Breakthrough?
-0.00008, 0.00036, Negative, Positive, Wrong
+No.45    I almost cried how bad this is.
+0.00044, 0.00080, Negative, Negative, Right
 
-No.90    Jimmy's Lawyer Breakthrough!
-0.00137, 0.00197, Positive, Positive, Right
+No.46    Too disappointed to type up a full review.
+0.00742, 0.00781, Negative, Negative, Right
 
-No.91    High Quality episode
-0.00090, 0.00125, Positive, Positive, Right
+No.47    Shame
+0.00814, 0.01690, Negative, Negative, Right
 
-No.92    Review of Season 1: Episodes 7-8
-0.00449, 0.00537, Positive, Positive, Right
+No.48    I pretty much loved everything the show had to offer. Up until this point.
+0.00044, 0.00096, Negative, Negative, Right
 
-No.93    Top stuff
-0.00069, 0.00072, Positive, Positive, Right
+No.49    D&D should be fired from their job
+0.01919, 0.00558, Positive, Negative, Wrong
 
-No.94    Saul has arrived
-0.00012, 0.00027, Positive, Positive, Right
+No.50    Last week I was left disappointed. Now I'm just sad
+0.00233, 0.00367, Negative, Negative, Right
 
-No.95    Marvelous writing and acting
-0.00410, 0.00179, Positive, Positive, Right
+No.51    Horrible
+0.00029, 0.00032, Positive, Negative, Wrong
 
-No.96    Holy shi*!
-0.00004, 0.00018, Negative, Positive, Wrong
+No.52    I don't care anymore
+0.00218, 0.00255, Positive, Negative, Wrong
 
-No.97    What a script!
-0.00018, 0.00027, Positive, Positive, Right
+No.53    Dany Forgot about the Iron fleet!!
+0.00683, 0.00686, Negative, Negative, Right
 
-No.98    Perfect episode leading up to the finale, just wow!
-0.00281, 0.00555, Positive, Positive, Right
-
-No.99    One of the best and most important episodes yet!!
-0.01968, 0.01771, Positive, Positive, Right
-
-No.100    "You was my brother Charley"
-0.00155, 0.00206, Positive, Positive, Right
-
-No.101    Possibly the best episode this season!
-0.00691, 0.00483, Positive, Positive, Right
-
-No.102    Breaking the Ties
-0.00018, 0.00027, Positive, Positive, Right
-
-No.103    Just wow.
-0.00016, 0.00027, Positive, Positive, Right
-
-No.104    The Heart-Wrenching Revelation!
-0.00057, 0.00081, Positive, Positive, Right
-
-No.105    One of the best episodes so far
-0.01904, 0.01700, Positive, Positive, Right
-
-No.106    What a great episode
-0.00663, 0.00394, Positive, Positive, Right
-
-No.107    Wonderful
-0.00022, 0.00009, Positive, Positive, Right
-
-No.108    Jimmy's moment of truth is here
-0.00151, 0.00188, Positive, Positive, Right
-
-No.109    Classic Season Finale, I'm Satisfied!
-0.00202, 0.00555, Positive, Positive, Right
-
-No.110    B for... Better Call Saul!
-0.00940, 0.00805, Positive, Positive, Right
-
-No.111    Stickers
-0.00010, 0.00009, Positive, Positive, Right
-
-No.112    This show is so good...
-0.00265, 0.00438, Positive, Positive, Right
-
-No.113    Good end to a great first season
-0.01641, 0.01288, Positive, Positive, Right
-
-No.114    Saul Finds His Call!
-0.00312, 0.00286, Positive, Positive, Right
-
-No.115    Season One
-0.00383, 0.00367, Positive, Positive, Right
-
-No.116    A fork in the road for Jimmy McGill at the end of the first season.
-0.01692, 0.01002, Positive, Positive, Right
-
-No.117    Ten hours of near perfect television in the first season of Better Call Saul.
-0.02027, 0.01718, Positive, Positive, Right
-
-No.118    Review of Season 1: Episodes 9-10
-0.00473, 0.00555, Positive, Positive, Right
-
-No.119    Best episode
-0.00318, 0.00215, Positive, Positive, Right
-
-No.120    Creative and heartfelt
-0.00059, 0.00054, Positive, Positive, Right
-
-No.121    My opinion on season 1
-0.00114, 0.00259, Positive, Positive, Right
-
-No.122    B is for
-0.00077, 0.00027, Positive, Positive, Right
-
-No.123    High hopes
-0.00043, 0.00054, Positive, Positive, Right
-
-No.124    Creeping criminal
-0.00049, 0.00036, Positive, Positive, Right
-
-No.125    Season Ends on a High Note!
-0.00210, 0.00098, Positive, Positive, Right
-
-No.126    Kim and Jimmy have great Chemistry.
-0.01054, 0.00895, Positive, Positive, Right
-
-No.127    If not the best thing on TV it is real close.
-0.00742, 0.00537, Positive, Positive, Right
-
-No.128    More like Bait-and-Switch
-0.00934, 0.01244, Positive, Positive, Right
-
-No.129    A personal return to the show
-0.00143, 0.00098, Positive, Positive, Right
-
-No.130    Can He Work With Someone Else?
-0.00249, 0.00206, Positive, Positive, Right
-
-No.131    Very good
-0.00259, 0.00412, Positive, Positive, Right
-
-No.132    Foreshadowing & symbolism
-0.00020, 0.00018, Positive, Positive, Right
-
-No.133    Excellent
-0.00055, 0.00036, Positive, Positive, Right
-
-No.134    Absolute perfection in creating plot points and foreshadowing
-0.00181, 0.00197, Positive, Positive, Right
-
-No.135    Special guest appearance by Hank (aka Dean Norris)
-0.00084, 0.00107, Positive, Positive, Right
-
-No.136    Very Good Episode
-0.00516, 0.00814, Positive, Positive, Right
-
-No.137    "a schoolbus for 7 year old pimps" (dialog)
-0.00186, 0.00421, Positive, Positive, Right
-
-No.138    Baseball Card Man Gets His Due
-0.00224, 0.00233, Positive, Positive, Right
-
-No.139    I could watch Jimmy for 1000 hours
-0.00632, 0.00653, Positive, Positive, Right
-
-No.140    A fairly enjoyable episode
-0.00049, 0.00036, Positive, Positive, Right
-
-No.141    Hilarious episode with very realistic drama.
-0.00206, 0.00161, Positive, Positive, Right
-
-No.142    Great two opening episodes of season 2
-0.01350, 0.01226, Positive, Positive, Right
-
-No.143    "Slippin' Jimmy with a law degree is like a chimp with a machine gun."
-0.01798, 0.02183, Positive, Positive, Right
-
-No.144    It just keeps getting better
-0.00432, 0.00412, Positive, Positive, Right
-
-No.145    The Setup
-0.00020, 0.00045, Positive, Positive, Right
-
-No.146    Mike Ehrmantraut the goat
-0.00096, 0.00036, Positive, Positive, Right
-
-No.147    Dual plot episode with some nice Breaking Bad tie-ins.
-0.00563, 0.00626, Positive, Positive, Right
-
-No.148    Love Breaking Bad tie-ins
-0.00353, 0.00233, Positive, Positive, Right
-
-No.149    Another solid episode with undeniably excellent storytelling!
-0.00288, 0.00206, Positive, Positive, Right
-
-No.150    Far from "Face/Off", but this is an amazing installment
-0.00626, 0.00555, Positive, Positive, Right
-
-No.151    The Integrity of MIke
-0.00031, 0.00036, Positive, Positive, Right
-
-No.152    The storyline is starting to flesh out the shift from Jimmy to Saul......
-0.00190, 0.00313, Positive, Positive, Right
-
-No.153    Non-Linear, Non-Squential Story Development
-0.00292, 0.00555, Positive, Positive, Right
-
-No.154    The World According to Kim
-0.00239, 0.00242, Positive, Positive, Right
-
-No.155    New characters and old characters BOTH shine in BCS's latest endeavor
-0.01083, 0.01306, Positive, Positive, Right
-
-No.156    A setup episode of reversal circumstances for our main characters
-0.00316, 0.00456, Positive, Positive, Right
-
-No.157    Good episode
-0.00514, 0.00805, Positive, Positive, Right
-
-No.158    Jonathan Banks is a legend!
-0.00349, 0.00089, Positive, Positive, Right
-
-No.159    A Job Offer
-0.00086, 0.00170, Positive, Positive, Right
-
-No.160    Mike
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.161    Saul Goodman not far.
-0.00369, 0.00349, Positive, Positive, Right
-
-No.162    Kim and Jimmie Show
-0.00408, 0.00358, Positive, Positive, Right
-
-No.163    One of the most funniest episodes
-0.01756, 0.01637, Positive, Positive, Right
-
-No.164    I get why some Breaking Bad fans are disappointed by the pace, but I just can't deny the sheer brilliance and realism of the writing and acting.
-0.02135, 0.02389, Positive, Positive, Right
-
-No.165    A very nice episode
-0.00106, 0.00143, Positive, Positive, Right
-
-No.166    Awesome opening scene.
-0.00371, 0.00224, Positive, Positive, Right
-
-No.167    More Betrayal from Chuck
-0.00416, 0.00394, Positive, Positive, Right
-
-No.168    Michael McKean should have won an Emmy for this Episode
-0.00412, 0.00233, Positive, Positive, Right
-
-No.169    Beautifully nuanced and heart-wrenching to the extreme.
-0.00092, 0.00098, Positive, Positive, Right
-
-No.170    Most pitch perfect so far
-0.00259, 0.00233, Positive, Positive, Right
-
-No.171    Do not pay attention, those looking for "exiting moments" don't care about the characters. And THEY ARE EXITING!
-0.01287, 0.01557, Positive, Positive, Right
-
-No.172    Spellbinding
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.173    Stakes get higher
-0.00263, 0.00340, Positive, Positive, Right
-
-No.174    Breaking Bad
-0.00004, 0.00018, Negative, Positive, Wrong
-
-No.175    My top 5 so far
-0.00263, 0.00188, Positive, Positive, Right
-
-No.176    Tensest episode yet!!
-0.00096, 0.00152, Positive, Positive, Right
-
-No.177    A cliffhanger handled right.
-0.00161, 0.00134, Positive, Positive, Right
-
-No.178    Great end to a great season.
-0.01419, 0.00832, Positive, Positive, Right
-
-No.179    Chilling and Constantly Intense!
-0.00041, 0.00063, Positive, Positive, Right
-
-No.180    Oh Brother!
-0.00155, 0.00197, Positive, Positive, Right
-
-No.181    Season Two
-0.00161, 0.00233, Positive, Positive, Right
-
-No.182    My season 2 review
-0.00159, 0.00224, Positive, Positive, Right
-
-No.183    You reap what you sow.
-0.00018, 0.00045, Positive, Positive, Right
-
-No.184    Sibling rivalry
-0.00008, 0.00045, Negative, Positive, Wrong
-
-No.185    Picks up right where it loft off at the end of Season 2
-0.01425, 0.01181, Positive, Positive, Right
-
-No.186    InVinceable Gilligan
-0.00124, 0.00089, Positive, Positive, Right
-
-No.187    Slow but attractive
-0.00218, 0.00367, Positive, Positive, Right
-
-No.188    Season 3 off to a great start!
-0.00585, 0.00573, Positive, Positive, Right
-
-No.189    Good opening to season 3 could be start of something good...finally.
-0.01307, 0.01449, Positive, Positive, Right
-
-No.190    Better Call Jimmy
-0.00889, 0.00787, Positive, Positive, Right
-
-No.191    Good start
-0.00314, 0.00421, Positive, Positive, Right
-
-No.192    Good Start to Season 3 - Lots of Poetic License with USAF
-0.00500, 0.00635, Positive, Positive, Right
-
-No.193    Exciting ending.
-0.00055, 0.00125, Positive, Positive, Right
-
-No.194    So slow and yet so pleasing to watch.
-0.00532, 0.00778, Positive, Positive, Right
-
-No.195    Instant Classic
-0.00037, 0.00045, Positive, Positive, Right
-
-No.196    Los Pollos Hermanos is back BABY!!
-0.00202, 0.00385, Positive, Positive, Right
-
-No.197    Amazing cinematography and plot development
-0.00312, 0.00233, Positive, Positive, Right
-
-No.198    The wheels are turning!
-0.00035, 0.00072, Positive, Positive, Right
-
-No.199    Great
-0.00330, 0.00188, Positive, Positive, Right
-
-No.200    Best Episode Yet
-0.00410, 0.00349, Positive, Positive, Right
-
-No.201    Great plot left me wanting for more
-0.00567, 0.00617, Positive, Positive, Right
-
-No.202    Best ep yet
-0.00255, 0.00259, Positive, Positive, Right
-
-No.203    I Can Think of Nothing Positive About Chuck/And Gus Is Back
-0.01431, 0.01843, Positive, Positive, Right
-
-No.204    Brace yourself to experience another round of Breaking Bad!!
-0.00141, 0.00143, Positive, Positive, Right
-
-No.205    Leading to Breaking Bad (Spoilers Warning)
-0.00110, 0.00134, Positive, Positive, Right
-
-No.206    Brother vs Brother and The Mike vs The Man (you know who it is)
-0.01413, 0.01673, Positive, Positive, Right
-
-No.207    Man, that was depressing!
-0.00279, 0.00251, Positive, Positive, Right
-
-No.208    ***SPOILER***Time for Kim Wixler to Smoke HHM***SPOILER***
-0.00655, 0.00796, Positive, Positive, Right
-
-No.209    So Good
-0.00259, 0.00412, Positive, Positive, Right
-
-No.210    We're getting there
-0.00165, 0.00161, Positive, Positive, Right
-
-No.211    Questions, Kim, and Mike
-0.00548, 0.00519, Positive, Positive, Right
-
-No.212    Big improvement on last week
-0.00259, 0.00313, Positive, Positive, Right
-
-No.213    Mind blowing awesome!
-0.00055, 0.00063, Positive, Positive, Right
-
-No.214    Mike is a smart boi
-0.00037, 0.00054, Positive, Positive, Right
-
-No.215    The Die is Cast!
-0.00039, 0.00072, Positive, Positive, Right
-
-No.216    A thrilling episode, particularly for fans of Breaking Bad.
-0.00210, 0.00242, Positive, Positive, Right
-
-No.217    I wouldn't call it thrilling - threatening and captivating yes...
-0.00628, 0.00573, Positive, Positive, Right
-
-No.218    Getting Interesting
-0.00157, 0.00206, Positive, Positive, Right
-
-No.219    Things Are Heating Up!
-0.00196, 0.00251, Positive, Positive, Right
-
-No.220    Up to the date of airing, this episode of BCS is probably the most like 'Breaking Bad'
-0.01295, 0.01754, Positive, Positive, Right
-
-No.221    Great episode
-0.00659, 0.00376, Positive, Positive, Right
-
-No.222    Let the show begin now...
-0.00131, 0.00251, Positive, Positive, Right
-
-No.223    Things Percolating
-0.00188, 0.00233, Positive, Positive, Right
-
-No.224    Possibly the most satisfying payoff to a story-line I have ever witnessed.
-0.00534, 0.00913, Positive, Positive, Right
-
-No.225    The Payoff
-0.00014, 0.00027, Positive, Positive, Right
-
-No.226    This is what we have been waiting for!!!!
-0.00067, 0.00107, Positive, Positive, Right
-
-No.227    masterfully done.. Best episode so far
-0.00683, 0.00492, Positive, Positive, Right
-
-No.228    A long-earned payoff
-0.00075, 0.00143, Positive, Positive, Right
-
-No.229    wow
-0.00014, 0.00018, Positive, Positive, Right
-
-No.230    Brilliant twists and delectating soupçons
-0.00128, 0.00215, Positive, Positive, Right
-
-No.231    Brilliant Denouement, Can't Wait for the next one.
-0.00975, 0.00823, Positive, Positive, Right
-
-No.232    Darn fine acting in the clash of the McGill brothers
-0.01158, 0.00644, Positive, Positive, Right
-
-No.233    just wow
-0.00016, 0.00027, Positive, Positive, Right
-
-No.234    Best episode so far!
-0.00620, 0.00447, Positive, Positive, Right
-
-No.235    Breathtaking!!
-0.00010, 0.00009, Positive, Positive, Right
-
-No.236    What a Payoff!
-0.00016, 0.00036, Positive, Positive, Right
-
-No.237    Absolutely Incredible
-0.00071, 0.00063, Positive, Positive, Right
-
-No.238    Saul Goodman is here !
-0.00338, 0.00331, Positive, Positive, Right
-
-No.239    Satisfaction!
-0.00004, 0.00009, Positive, Positive, Right
-
-No.240    One of my absolute best episodes ever!
-0.01613, 0.01467, Positive, Positive, Right
-
-No.241    Probably the best tv show episode
-0.00565, 0.00412, Positive, Positive, Right
-
-No.242    Finally!!!
-0.00077, 0.00081, Positive, Positive, Right
-
-No.243    Dialogue! Finally!
-0.00120, 0.00107, Positive, Positive, Right
-
-No.244    Holy sheeeiii-
-0.00004, 0.00018, Negative, Positive, Wrong
-
-No.245    Huell
-0.00006, 0.00009, Positive, Positive, Right
-
-No.246    There is my breaking bad
-0.00010, 0.00045, Negative, Positive, Wrong
-
-No.247    The greatest Episode in the last 5 years of Television
-0.00357, 0.00331, Positive, Positive, Right
-
-No.248    Best one yet!
-0.00632, 0.00599, Positive, Positive, Right
-
-No.249    Back to Formula
-0.00489, 0.00644, Positive, Positive, Right
-
-No.250    Wonderful Show
-0.00043, 0.00018, Positive, Positive, Right
-
-No.251    Back in Business
-0.00361, 0.00474, Positive, Positive, Right
-
-No.252    Its just A Name
-0.00027, 0.00063, Positive, Positive, Right
-
-No.253    Masterpiece of Storytelling!
-0.00043, 0.00063, Positive, Positive, Right
-
-No.254    Finish Something, Please
-0.00139, 0.00116, Positive, Positive, Right
-
-No.255    Another great episode!!
-0.00752, 0.00447, Positive, Positive, Right
-
-No.256    finally some humour
-0.00163, 0.00179, Positive, Positive, Right
-
-No.257    We're getting there
-0.00165, 0.00161, Positive, Positive, Right
-
-No.258    Getting better with each show
-0.01376, 0.01288, Positive, Positive, Right
-
-No.259    Great episode
-0.00659, 0.00376, Positive, Positive, Right
-
-No.260    On the Skids
-0.00006, 0.00027, Negative, Positive, Wrong
-
-No.261    Another top episode!!!!
-0.00179, 0.00107, Positive, Positive, Right
-
-No.262    Everyone is Amazing!
-0.00153, 0.00098, Positive, Positive, Right
-
-No.263    Pathetic
-0.00014, 0.00009, Positive, Positive, Right
-
-No.264    Wow, great episode
-0.00673, 0.00394, Positive, Positive, Right
-
-No.265    Small prayers
-0.00071, 0.00036, Positive, Positive, Right
-
-No.266    Chuck Amazing Episode!
-0.00544, 0.00421, Positive, Positive, Right
-
-No.267    Masterworks
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.268    The body at the reservation
-0.00035, 0.00045, Positive, Positive, Right
-
-No.269    Kim
-0.00181, 0.00170, Positive, Positive, Right
-
-No.270    Play on Player, play on!
-0.00186, 0.00089, Positive, Positive, Right
-
-No.271    Another top notch episode
-0.00171, 0.00107, Positive, Positive, Right
-
-No.272    Blood.
-0.00008, 0.00009, Positive, Positive, Right
-
-No.273    Pure Saul
-0.00027, 0.00036, Positive, Positive, Right
-
-No.274    Re-do
-0.00004, 0.00018, Negative, Positive, Wrong
-
-No.275    The show is finally moving at a good pace, but it might be a little too late
-0.00816, 0.01208, Positive, Positive, Right
-
-No.276    Dynamite
-0.00002, 0.00018, Negative, Positive, Wrong
-
-No.277    Impressive
-0.00010, 0.00009, Positive, Positive, Right
-
-No.278    One of the best edits ever
-0.01531, 0.01369, Positive, Positive, Right
-
-No.279    Jimmy manipulating Irene and other chair yoga lover ladies in some funny ways
-0.00092, 0.00268, Positive, Positive, Right
-
-No.280    Real Jimmy
-0.00106, 0.00125, Positive, Positive, Right
-
-No.281    A heartbreaking finale, and the demise of one of TV's greatest characters.
-0.01321, 0.01646, Positive, Positive, Right
-
-No.282    There had better be a Season 4.
-0.01329, 0.01262, Positive, Positive, Right
-
-No.283    Genius
-0.00016, 0.00018, Positive, Positive, Right
-
-No.284    great ending
-0.00373, 0.00286, Positive, Positive, Right
-
-No.285    Great finale
-0.00371, 0.00358, Positive, Positive, Right
-
-No.286    Sadly, Chuck never was brilliant, when it came to his own feelings.
-0.00924, 0.00859, Positive, Positive, Right
-
-No.287    What Are They Thinking/Superb
-0.00055, 0.00054, Positive, Positive, Right
-
-No.288    What do you guys mean...
-0.00039, 0.00107, Positive, Positive, Right
-
-No.289    I'm Disappointed... by Some Reviewers
-0.00049, 0.00116, Positive, Positive, Right
-
-No.290    As good as Ozymandias
-0.00520, 0.00823, Positive, Positive, Right
-
-No.291    Kick That Table Chuck... Harder
-0.00416, 0.00412, Positive, Positive, Right
-
-No.292    Darkness will always be overpowered by the smallest light
-0.00673, 0.00492, Positive, Positive, Right
-
-No.293    best episode of the show!
-0.00795, 0.00537, Positive, Positive, Right
-
-No.294    Great Episode!
-0.00659, 0.00376, Positive, Positive, Right
-
-No.295    Season Three
-0.00031, 0.00045, Positive, Positive, Right
-
-No.296    This season has been the best yet
-0.00261, 0.00286, Positive, Positive, Right
-
-No.297    Best season so far !
-0.00620, 0.00447, Positive, Positive, Right
-
-No.298    A premiere done right
-0.00194, 0.00179, Positive, Positive, Right
-
-No.299    Saul is coming...
-0.00045, 0.00063, Positive, Positive, Right
-
-No.300    What a way to start season 4!
-0.00544, 0.00546, Positive, Positive, Right
-
-No.301    After what they did to The Walking Dead, AMC owed us.
-0.00192, 0.00143, Positive, Positive, Right
-
-No.302    So it begins...
-0.00014, 0.00036, Positive, Positive, Right
-
-No.303    Just Right
-0.00126, 0.00107, Positive, Positive, Right
-
-No.304    very good season premier
-0.00773, 0.01217, Positive, Positive, Right
-
-No.305    Cain slew Abel (or was that Jimmy Dean?)
-0.00016, 0.00072, Negative, Positive, Wrong
-
-No.306    Great start to new season.
-0.00675, 0.00456, Positive, Positive, Right
-
-No.307    Avoiding cliches
-0.00004, 0.00018, Negative, Positive, Wrong
-
-No.308    Poignant start to season 4
-0.00206, 0.00098, Positive, Positive, Right
-
-No.309    Only the Beginning
-0.00047, 0.00045, Positive, Positive, Right
-
-No.310    Brilliant cinematography
-0.00122, 0.00063, Positive, Positive, Right
-
-No.311    Great start to the season!
-0.00557, 0.00259, Positive, Positive, Right
-
-No.312    So I Lied
-0.00008, 0.00027, Positive, Positive, Right
-
-No.313    Gus Fring is BACK
-0.00292, 0.00429, Positive, Positive, Right
-
-No.314    !Rhea Seehorn!
-0.00039, 0.00036, Positive, Positive, Right
-
-No.315    Wow
-0.00014, 0.00018, Positive, Positive, Right
-
-No.316    Gripping plot development with more to be revealed
-0.00318, 0.00394, Positive, Positive, Right
-
-No.317    Possibly the best episode of Better Call Saul so far. Certainly up there.
-0.01894, 0.01610, Positive, Positive, Right
-
-No.318    THE REAL GUS IS HERE!!
-0.00279, 0.00555, Positive, Positive, Right
-
-No.319    Rhea Seehorn
-0.00039, 0.00036, Positive, Positive, Right
-
-No.320    A strong piece setting episode
-0.00088, 0.00125, Positive, Positive, Right
-
-No.321    Not your usual Breaking Bad vibe
-0.00131, 0.00054, Positive, Positive, Right
-
-No.322    Promising episode
-0.00012, 0.00054, Negative, Positive, Wrong
-
-No.323    Best scene of the series
-0.01217, 0.00787, Positive, Positive, Right
-
-No.324    A very involving series
-0.00241, 0.00215, Positive, Positive, Right
-
-No.325    What does goldfish symbolize?
-0.00008, 0.00036, Negative, Positive, Wrong
-
-No.326    Incredible acting!
-0.00177, 0.00107, Positive, Positive, Right
-
-No.327    Brilliant, just fantastic
-0.00188, 0.00081, Positive, Positive, Right
-
-No.328    Kim did her best!
-0.00701, 0.00617, Positive, Positive, Right
-
-No.329    Jimmy Ready to Explode
-0.00022, 0.00054, Positive, Positive, Right
-
-No.330    Poetic
-0.00004, 0.00009, Positive, Positive, Right
-
-No.331    The return of the dancing chemist
-0.00098, 0.00081, Positive, Positive, Right
-
-No.332    Something Beautiful is Something Murky and Sinister
-0.00516, 0.00349, Positive, Positive, Right
-
-No.333    Jimmy's Program
-0.00010, 0.00027, Positive, Positive, Right
-
-No.334    Powerful episode.
-0.00020, 0.00018, Positive, Positive, Right
-
-No.335    Not the most dramatic, but sometimes you have to recognise great craftsmanship
-0.00500, 0.00483, Positive, Positive, Right
-
-No.336    The build-up is utter suspense
-0.00106, 0.00224, Positive, Positive, Right
-
-No.337    Fantastic episode.
-0.00086, 0.00018, Positive, Positive, Right
-
-No.338    Balanced episode
-0.00012, 0.00018, Positive, Positive, Right
-
-No.339    Another breathtaking addition to the series!
-0.00336, 0.00304, Positive, Positive, Right
-
-No.340    Masterful Storytelling
-0.00029, 0.00063, Positive, Positive, Right
-
-No.341    You'll feel a lot better if you just talk...
-0.01564, 0.01602, Positive, Positive, Right
-
-No.342    I dont understand who critics BCS
-0.00243, 0.00421, Positive, Positive, Right
-
-No.343    Okay, Fine
-0.00022, 0.00045, Positive, Positive, Right
-
-No.344    Anyone who gave this less than a 9 is most likely not paying close enough attention.
-0.00381, 0.00671, Positive, Positive, Right
-
-No.345    Banks steals this episode
-0.00283, 0.00072, Positive, Positive, Right
-
-No.346    OK episode, but not the best this season
-0.00526, 0.00367, Positive, Positive, Right
-
-No.347    The birth of Saul Goodman.
-0.00126, 0.00143, Positive, Positive, Right
-
-No.348    The birth of an icon
-0.00018, 0.00045, Positive, Positive, Right
-
-No.349    Fast Moving/A Thrill a Minute
-0.00082, 0.00188, Positive, Positive, Right
-
-No.350    Slow slow slowwwwwwww
-0.00318, 0.00537, Positive, Positive, Right
-
-No.351    Sardonic episode
-0.00004, 0.00018, Negative, Positive, Wrong
-
-No.352    Solving the Saul Puzzle
-0.00010, 0.00036, Positive, Positive, Right
-
-No.353    Breaking bad fuzz.
-0.00006, 0.00027, Negative, Positive, Wrong
-
-No.354    Strongest episode of the season so far.
-0.00167, 0.00179, Positive, Positive, Right
-
-No.355    Episode 5 Quite A Ride Review: Quite An Episode Full of Great Performances
-0.00828, 0.00555, Positive, Positive, Right
-
-No.356    Picking up steam!
-0.00006, 0.00072, Negative, Positive, Wrong
-
-No.357    We knew that "Better Call Saul.
-0.00954, 0.00850, Positive, Positive, Right
-
-No.358    Tv's best written show
-0.00453, 0.00268, Positive, Positive, Right
-
-No.359    Not Done?
-0.00059, 0.00045, Positive, Positive, Right
-
-No.360    Slowly building
-0.00059, 0.00063, Positive, Positive, Right
-
-No.361    Best in the season so far.
-0.00938, 0.00662, Positive, Positive, Right
-
-No.362    Back on track!
-0.00336, 0.00447, Positive, Positive, Right
-
-No.363    On the Edge
-0.00020, 0.00036, Positive, Positive, Right
-
-No.364    You get 1 warning, and that was it
-0.00330, 0.00546, Positive, Positive, Right
-
-No.365    We will whack it; we will crack it; and the goodies will fall out in dozens...
-0.00079, 0.00286, Positive, Positive, Right
-
-No.366    Sweet revenge
-0.00022, 0.00036, Positive, Positive, Right
-
-No.367    I love you Jimmy McGill
-0.00530, 0.00286, Positive, Positive, Right
-
-No.368    Entertaining and involving
-0.00084, 0.00063, Positive, Positive, Right
-
-No.369    Maybe the best episode of the season
-0.00858, 0.00680, Positive, Positive, Right
-
-No.370    Jimmy is back!
-0.00167, 0.00233, Positive, Positive, Right
-
-No.371    show back on track
-0.00338, 0.00456, Positive, Positive, Right
-
-No.372    very relaxing end scene
-0.00428, 0.00277, Positive, Positive, Right
-
-No.373    The paths are closing for Jimmy
-0.00012, 0.00081, Negative, Positive, Wrong
-
-No.374    I like it. I'm good at it.
-0.02006, 0.02827, Positive, Positive, Right
-
-No.375    Revenge
-0.00010, 0.00027, Positive, Positive, Right
-
-No.376    The dark side of Jimmy
-0.00161, 0.00125, Positive, Positive, Right
-
-No.377    Non-Stop
-0.00026, 0.00036, Positive, Positive, Right
-
-No.378    Great episode. Again. It feels like the last three are going to be wild
-0.02632, 0.02434, Positive, Positive, Right
-
-No.379    For "boring" people
-0.00112, 0.00251, Positive, Positive, Right
-
-No.380    Only boring to those who don't pay attention
-0.00234, 0.00769, Positive, Positive, Right
-
-No.381    Frank and Nancy's doldrums
-0.00010, 0.00045, Negative, Positive, Wrong
-
-No.382    Kim's cast; right arm/left arm is NOT a 'goof'.
-0.00899, 0.01065, Positive, Positive, Right
-
-No.383    Boring? What did you expect to happen exactly?
-0.00228, 0.00671, Positive, Positive, Right
-
-No.384    Brilliant (I do not use the word lightly)
-0.00373, 0.00215, Positive, Positive, Right
-
-No.385    Down The Rabbit Hole
-0.00018, 0.00045, Positive, Positive, Right
-
-No.386    Perfect setting for an explosive ending
-0.00179, 0.00259, Positive, Positive, Right
-
-No.387    Better episode
-0.00648, 0.00608, Positive, Positive, Right
-
-No.388    Another excellent episode
-0.00202, 0.00143, Positive, Positive, Right
-
-No.389    Good Suspense/Relationship Crumbling
-0.00367, 0.00528, Positive, Positive, Right
-
-No.390    I AM a Breaking Bad fan, and I LOVE Better Call Saul.
-0.01085, 0.01118, Positive, Positive, Right
-
-No.391    Hilarity Followed by a Pretzel-like Plot Twist
-0.00449, 0.00582, Positive, Positive, Right
-
-No.392    Great episode
-0.00659, 0.00376, Positive, Positive, Right
-
-No.393    Under The Bus?
-0.00008, 0.00027, Positive, Positive, Right
-
-No.394    Perfect episode.
-0.00106, 0.00089, Positive, Positive, Right
-
-No.395    Brilliant
-0.00073, 0.00036, Positive, Positive, Right
-
-No.396    One of the better episodes this season
-0.02155, 0.01968, Positive, Positive, Right
-
-No.397    PACA PACA PACA PACA EN MI CABALLO
-0.00014, 0.00063, Negative, Positive, Wrong
-
-No.398    Nice surprises...this is the BEST season
-0.00424, 0.00313, Positive, Positive, Right
-
-No.399    Great
-0.00330, 0.00188, Positive, Positive, Right
-
-No.400    Smokin' Episode
-0.00004, 0.00018, Negative, Positive, Wrong
-
-No.401    Almost stopped watching, but this episode will bring me back next season
-0.00773, 0.01020, Positive, Positive, Right
-
-No.402    Great episode
-0.00659, 0.00376, Positive, Positive, Right
-
-No.403    What makes Better Call Saul good
-0.01240, 0.01342, Positive, Positive, Right
-
-No.404    Kim Wexler is such a punish!
-0.00298, 0.00215, Positive, Positive, Right
-
-No.405    Time To Be Brutally Honest
-0.00646, 0.00832, Positive, Positive, Right
-
-No.406    Until We Meet Again
-0.00024, 0.00072, Positive, Positive, Right
-
-No.407    Best episode all season (so far)...
-0.00938, 0.00662, Positive, Positive, Right
-
-No.408    The Highs and the Lows
-0.00010, 0.00045, Negative, Positive, Wrong
-
-No.409    What a story. Unbelievable good..
-0.00471, 0.00895, Positive, Positive, Right
-
-No.410    Fantastic episode
-0.00086, 0.00018, Positive, Positive, Right
-
-No.411    Loved the setup, look and feel and story, but the show definitely needs more action.
-0.01336, 0.02389, Positive, Positive, Right
-
-No.412    What More Can Be Said
-0.00043, 0.00072, Positive, Positive, Right
-
-No.413    Best episode of the season so far....
-0.01097, 0.00769, Positive, Positive, Right
-
-No.414    Finally something I can get behind
-0.00707, 0.00680, Positive, Positive, Right
-
-No.415    A spin-off no longer, a show that stands on its own.
-0.00165, 0.00412, Positive, Positive, Right
-
-No.416    A heartbreakingly beautiful end to season 4
-0.00483, 0.00322, Positive, Positive, Right
-
-No.417    A Heartbreakingly Perfect Ending
-0.00100, 0.00161, Positive, Positive, Right
-
-No.418    It's all good, man...
-0.00353, 0.00510, Positive, Positive, Right
-
-No.419    Brought The Season Full Circle
-0.00104, 0.00152, Positive, Positive, Right
-
-No.420    Can you think of a better season finale? I can't.
-0.01240, 0.01950, Positive, Positive, Right
-
-No.421    The Winner loses it all
-0.00010, 0.00045, Negative, Positive, Wrong
-
-No.422    Saul Goodman Is Born
-0.00232, 0.00233, Positive, Positive, Right
-
-No.423    Couldn't of Ended This Season on a more Perfect Note
-0.00228, 0.00152, Positive, Positive, Right
-
-No.424    Perfect episode
-0.00106, 0.00089, Positive, Positive, Right
-
-No.425    Now this is tv
-0.00118, 0.00081, Positive, Positive, Right
-
-No.426    One of The Best Episodes in the show
-0.02220, 0.01968, Positive, Positive, Right
-
-No.427    Winner Winner Chicken Dinner
-0.00014, 0.00036, Positive, Positive, Right
-
-No.428    Saul Takes It All
-0.00143, 0.00170, Positive, Positive, Right
-
-No.429    Bravo, Bravo.
-0.00008, 0.00018, Positive, Positive, Right
-
-No.430    And there it is...
-0.00008, 0.00036, Negative, Positive, Wrong
-
-No.431    Winner
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.432    This is how you end a season!
-0.00438, 0.00304, Positive, Positive, Right
-
-No.433    Bravo, bravo, bravissimo!
-0.00012, 0.00027, Positive, Positive, Right
-
-No.435    It's all good man
-0.00353, 0.00510, Positive, Positive, Right
-
-No.436    It's all good man
-0.00353, 0.00510, Positive, Positive, Right
-
-No.437    "I'm Confessin' That I Love You..." :-p
-0.00237, 0.00197, Positive, Positive, Right
-
-No.438    Thank you, Robert!
-0.00041, 0.00054, Positive, Positive, Right
-
-No.439    Just like breaking bad, it gets better as it continues
-0.02296, 0.02595, Positive, Positive, Right
-
-No.440    Great, as expected.
-0.00669, 0.00403, Positive, Positive, Right
-
-No.441    Photography is spectacular
-0.00012, 0.00027, Positive, Positive, Right
-
-No.442    Jimmy's on the decline, While Saul's rising.
-0.00018, 0.00125, Negative, Positive, Wrong
-
-No.443    Still one of the best shows on TV
-0.01798, 0.01557, Positive, Positive, Right
-
-No.444    That last scene was so good!
-0.01234, 0.01038, Positive, Positive, Right
-
-No.445    Is the magic man Saul or Vince Gilligan
-0.00489, 0.00456, Positive, Positive, Right
-
-No.446    Bob Odenkirk Is A Magician When It Comes To Playing Saul Goodman
-0.00932, 0.00412, Positive, Positive, Right
-
-No.447    My favourite show next to breaking bad
-0.00391, 0.00456, Positive, Positive, Right
-
-No.448    Puff!
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.449    Back with a bang
-0.00495, 0.00662, Positive, Positive, Right
-
-No.450    Great way to start the new season!
-0.01072, 0.00922, Positive, Positive, Right
-
-No.451    Magic
-0.00004, 0.00009, Positive, Positive, Right
-
-No.452    Game On!
-0.00043, 0.00036, Positive, Positive, Right
-
-No.453    Puff!!!
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.454    Good start to a great season
-0.01087, 0.00832, Positive, Positive, Right
-
-No.455    Good start
-0.00314, 0.00421, Positive, Positive, Right
-
-No.456    A very promising start
-0.00067, 0.00063, Positive, Positive, Right
-
-No.457    Solid magic
-0.00035, 0.00027, Positive, Positive, Right
-
-No.458    Saul is back, and better than ever.
-0.01048, 0.01136, Positive, Positive, Right
-
-No.459    Mikes poorly made pimento cheese sandwich
-0.00183, 0.00188, Positive, Positive, Right
-
-No.460    Building up episode.
-0.00112, 0.00054, Positive, Positive, Right
-
-No.461    Rollercoaster of emotions
-0.00020, 0.00027, Positive, Positive, Right
-
-No.462    Someting tells me this is gonna be the best season so far
-0.00767, 0.00626, Positive, Positive, Right
-
-No.463    Dude, that's almost half
-0.00102, 0.00170, Positive, Positive, Right
-
-No.464    BCS is better than BB
-0.00952, 0.00913, Positive, Positive, Right
-
-No.465    Very solid show so far...it makes want to show breaking bad again lol
-0.00820, 0.00895, Positive, Positive, Right
-
-No.466    5x02
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.467    Nice
-0.00051, 0.00063, Positive, Positive, Right
-
-No.468    IT WAS IGNACIO HE'S THE ONE!
-0.00393, 0.00412, Positive, Positive, Right
-
-No.469    Krazy-8!
-0.00022, 0.00045, Positive, Positive, Right
-
-No.470    Excellent Episode!!
-0.00110, 0.00072, Positive, Positive, Right
-
-No.471    Slippin' Kimmy
-0.00055, 0.00054, Positive, Positive, Right
-
-No.472    Vince Gilligan, please eat your vegetables
-0.00236, 0.00268, Positive, Positive, Right
-
-No.473    Trash in the streets
-0.00008, 0.00036, Negative, Positive, Wrong
-
-No.474    Easily the best episode of the series
-0.00899, 0.00653, Positive, Positive, Right
-
-No.475    I freaking love Kim Wexler
-0.00320, 0.00268, Positive, Positive, Right
-
-No.476    Perfect
-0.00053, 0.00045, Positive, Positive, Right
-
-No.477    That last scene tho
-0.00420, 0.00304, Positive, Positive, Right
-
-No.478    Perfection.
-0.00010, 0.00009, Positive, Positive, Right
-
-No.479    Saul is breaking (really) bad!
-0.00532, 0.00474, Positive, Positive, Right
-
-No.480    perfection.
-0.00010, 0.00009, Positive, Positive, Right
-
-No.481    ONE OF THE BEST
-0.01301, 0.01181, Positive, Positive, Right
-
-No.482    Getting better and more intense.
-0.01075, 0.01002, Positive, Positive, Right
-
-No.483    Keeps getting better each season, each new episode.
-0.01631, 0.01539, Positive, Positive, Right
-
-No.484    Things are Moving at Breakneck Speed!
-0.00245, 0.00331, Positive, Positive, Right
-
-No.485    Turning point episode!
-0.00155, 0.00295, Positive, Positive, Right
-
-No.486    Krazy 8
-0.00022, 0.00045, Positive, Positive, Right
-
-No.487    exceptional
-0.00010, 0.00009, Positive, Positive, Right
-
-No.488    He's back!
-0.00167, 0.00233, Positive, Positive, Right
-
-No.489    As tasty as a scoop of ice-cream
-0.00018, 0.00081, Negative, Positive, Wrong
-
-No.490    Gem of a writing
-0.00135, 0.00063, Positive, Positive, Right
-
-No.491    Amazing writing, Creeping at an ant's pace to BB
-0.01046, 0.00438, Positive, Positive, Right
-
-No.492    Bob Odenkirk at his best!
-0.00544, 0.00224, Positive, Positive, Right
-
-No.493    Are we finally connecting the dots with Better Call Saul and Breaking Bad
-0.02123, 0.01933, Positive, Positive, Right
-
-No.494    It's just getting better since it started back in 2008
-0.00997, 0.01208, Positive, Positive, Right
-
-No.495    Why go back to Jimmy when you're already Good man?
-0.01472, 0.01906, Positive, Positive, Right
-
-No.496    Dissociative Identity Disorder
-0.00014, 0.00045, Positive, Positive, Right
-
-No.497    Awesome
-0.00027, 0.00018, Positive, Positive, Right
-
-No.498    Such an amazing episode!
-0.00161, 0.00072, Positive, Positive, Right
-
-No.499    Least impactful of the season but still great
-0.00597, 0.00689, Positive, Positive, Right
-
-No.500    Yes he did it again
-0.00098, 0.00045, Positive, Positive, Right
-
-No.501    Not the best one but still solid
-0.01081, 0.00984, Positive, Positive, Right
-
-No.502    Solid character development episode.
-0.00359, 0.00367, Positive, Positive, Right
-
-No.503    Dedicated to Max.
-0.00008, 0.00036, Negative, Positive, Wrong
-
-No.504    Swimming Pools and Fountains
-0.00008, 0.00036, Negative, Positive, Wrong
-
-No.505    Dear low-rating-givers
-0.00039, 0.00089, Positive, Positive, Right
-
-No.506    TV at its best!
-0.00495, 0.00268, Positive, Positive, Right
-
-No.507    Kim becomes more and more mysterious!
-0.00259, 0.00251, Positive, Positive, Right
-
-No.508    This is not Breaking Bad. It's better!
-0.00338, 0.00367, Positive, Positive, Right
-
-No.509    It all goes full circle
-0.00106, 0.00125, Positive, Positive, Right
-
-No.510    Revenge or Justice?
-0.00024, 0.00063, Positive, Positive, Right
-
-No.511    Still enjoyable
-0.00147, 0.00134, Positive, Positive, Right
-
-No.512    BCS brings the fun back
-0.00338, 0.00385, Positive, Positive, Right
-
-No.513    8.5/10
-0.00086, 0.00161, Positive, Positive, Right
-
-No.514    Slow but fit
-0.00228, 0.00385, Positive, Positive, Right
-
-No.515    Saul is here, the downfall begins
-0.00024, 0.00063, Positive, Positive, Right
-
-No.516    If this is not a 10 then what is?
-0.00135, 0.00474, Positive, Positive, Right
-
-No.517    I KNOW A GUY WHO KNOWS A GUY!
-0.00551, 0.00662, Positive, Positive, Right
-
-No.518    Rhea Seehorn kills it.
-0.00051, 0.00054, Positive, Positive, Right
-
-No.519    A big brba hint
-0.00131, 0.00161, Positive, Positive, Right
-
-No.520    our first look at the new jimmy; saul
-0.00779, 0.00707, Positive, Positive, Right
-
-No.521    The best episode of the Season so far.
-0.01099, 0.00778, Positive, Positive, Right
-
-No.522    Better Call SAUL
-0.00889, 0.00787, Positive, Positive, Right
-
-No.523    Wexler v Goodman....maybe?
-0.00175, 0.00197, Positive, Positive, Right
-
-No.524    Chicanery: Wexler Edition
-0.00051, 0.00027, Positive, Positive, Right
-
-No.525    I had goosebumps
-0.00006, 0.00027, Negative, Positive, Wrong
-
-No.526    Saul continues to shine, while Jimmy remains in his shade
-0.00106, 0.00089, Positive, Positive, Right
-
-No.527    Twist and Out
-0.00047, 0.00107, Positive, Positive, Right
-
-No.528    Better call Ji..Saul
-0.01172, 0.01029, Positive, Positive, Right
-
-No.529    Best episode since Chicanery
-0.00353, 0.00268, Positive, Positive, Right
-
-No.530    Just sick!
-0.00004, 0.00036, Negative, Positive, Wrong
-
-No.531    As Usual it's amazing
-0.00198, 0.00063, Positive, Positive, Right
-
-No.532    Beautiful Composition
-0.00039, 0.00018, Positive, Positive, Right
-
-No.533    Tremendous!
-0.00006, 0.00009, Positive, Positive, Right
-
-No.534    An amazing episode
-0.00159, 0.00063, Positive, Positive, Right
-
-No.535    5x06
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.536    Phenomenal. Simply the best written episode I have seen in years!!
-0.00530, 0.00403, Positive, Positive, Right
-
-No.537    The best episode, YET!
-0.00412, 0.00358, Positive, Positive, Right
-
-No.538    Amazing
-0.00079, 0.00027, Positive, Positive, Right
-
-No.539    All rise for the incredible Bob Odenkirk
-0.00255, 0.00116, Positive, Positive, Right
-
-No.540    Genius ending!
-0.00059, 0.00116, Positive, Positive, Right
-
-No.541    Chicken man up in flames!
-0.00367, 0.00331, Positive, Positive, Right
-
-No.542    Things are heating up
-0.00196, 0.00251, Positive, Positive, Right
-
-No.543    amazing
-0.00079, 0.00027, Positive, Positive, Right
-
-No.544    Lighting bolts from my fingertips!!!!!!!!!
-0.00029, 0.00045, Positive, Positive, Right
-
-No.545    Friend of Cartel
-0.00041, 0.00116, Positive, Positive, Right
-
-No.546    jimmy is the gasoline, Saul is the fire flaming from it
-0.00045, 0.00098, Positive, Positive, Right
-
-No.547    Who knows what Kim becomes ?
-0.00271, 0.00251, Positive, Positive, Right
-
-No.548    Pretty sure Saul already embraced his dark side.
-0.00351, 0.00358, Positive, Positive, Right
-
-No.549    Justice Matters Most
-0.00016, 0.00027, Positive, Positive, Right
-
-No.550    Its Getting there.
-0.00163, 0.00152, Positive, Positive, Right
-
-No.551    Hands down, the greatest episode of Better Call Saul... So far.
-0.01415, 0.01262, Positive, Positive, Right
-
-No.552    Return of Peter Schuler
-0.00086, 0.00054, Positive, Positive, Right
-
-No.553    10/10
-0.00063, 0.00215, Positive, Positive, Right
-
-No.554    Cruising on Saul's Road
-0.00020, 0.00063, Positive, Positive, Right
-
-No.555    Everything is done for a reason.
-0.00308, 0.00412, Positive, Positive, Right
-
-No.556    5x07
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.557    BCS v. BB
-0.00212, 0.00206, Positive, Positive, Right
-
-No.558    Lightning strikes twice
-0.00010, 0.00045, Negative, Positive, Wrong
-
-No.559    It finally hits slick Jimmy, but not Pam
-0.00122, 0.00143, Positive, Positive, Right
-
-No.560    You killed my Brother and you said you're sorry !
-0.00553, 0.00671, Positive, Positive, Right
-
-No.561    As Good(man) as it gets!
-0.00585, 0.00707, Positive, Positive, Right
-
-No.562    First reference to Jesse in BCS?
-0.00444, 0.00376, Positive, Positive, Right
-
-No.563    Wow.
-0.00014, 0.00018, Positive, Positive, Right
-
-No.564    HANDS DOWN FOR THE BEST EPISODE OF THE SERIES
-0.00891, 0.00671, Positive, Positive, Right
-
-No.565    BREAKING BAD LEVEL
-0.00031, 0.00063, Positive, Positive, Right
-
-No.566    Best episode of BCS ever
-0.00648, 0.00510, Positive, Positive, Right
-
-No.567    "Boring"
-0.00031, 0.00116, Positive, Positive, Right
-
-No.568    3 Days Out on steroids
-0.00096, 0.00125, Positive, Positive, Right
-
-No.569    So good.
-0.00259, 0.00412, Positive, Positive, Right
-
-No.570    BEST EPISODE EVER
-0.00389, 0.00295, Positive, Positive, Right
-
-No.571    This Series will catch up Breaking Bad!!
-0.00473, 0.00456, Positive, Positive, Right
-
-No.572    Unbelievable.
-0.00002, 0.00036, Negative, Positive, Wrong
-
-No.573    Masterpiece
-0.00014, 0.00018, Positive, Positive, Right
-
-No.574    Two Men Show
-0.00202, 0.00277, Positive, Positive, Right
-
-No.575    wow.
-0.00014, 0.00018, Positive, Positive, Right
-
-No.576    The Pine Barrens of better call Saul
-0.00897, 0.00823, Positive, Positive, Right
-
-No.577    Breaking bad has been outdone
-0.00010, 0.00045, Negative, Positive, Wrong
-
-No.578    Even Better on Second Watch
-0.00997, 0.01002, Positive, Positive, Right
-
-No.579    Pure gold!
-0.00018, 0.00027, Positive, Positive, Right
-
-No.580    Hell yeah
-0.00037, 0.00027, Positive, Positive, Right
-
-No.581    We have now arrived at Breaking Bad/Kim, why!!!!
-0.00398, 0.00403, Positive, Positive, Right
-
-No.582    Bagman
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.583    Each new episode raises the bar.
-0.00477, 0.00519, Positive, Positive, Right
-
-No.584    Best Episode of the season thus far
-0.00948, 0.00689, Positive, Positive, Right
-
-No.585    Best episode of the series so far
-0.01211, 0.00895, Positive, Positive, Right
-
-No.586    Rhea Seehorn as Kim Wexler is Must See TV
-0.00752, 0.00537, Positive, Positive, Right
-
-No.587    Here we go again with this show
-0.00485, 0.00465, Positive, Positive, Right
-
-No.588    The Masterpiece Road!
-0.00027, 0.00054, Positive, Positive, Right
-
-No.589    Back to Albuquerque
-0.00349, 0.00438, Positive, Positive, Right
-
-No.590    Tony Dalton
-0.00008, 0.00018, Positive, Positive, Right
-
-No.591    Incredible writing and perhaps the most intense scenes in the show
-0.00818, 0.00725, Positive, Positive, Right
-
-No.592    The most intense 10 minutes in recent TV.
-0.00271, 0.00403, Positive, Positive, Right
-
-No.593    GIVE RHEA AN EMMY!!
-0.00122, 0.00089, Positive, Positive, Right
-
-No.594    Call it Off
-0.00848, 0.00725, Positive, Positive, Right
-
-No.595    Heart pumping episode
-0.00088, 0.00054, Positive, Positive, Right
-
-No.596    Rhea Seehorn steals the show
-0.00098, 0.00089, Positive, Positive, Right
-
-No.597    Kim The Goat
-0.00542, 0.00510, Positive, Positive, Right
-
-No.598    Kim Wexler . WOW...!!!
-0.00218, 0.00197, Positive, Positive, Right
-
-No.599    Better Call Saul at its finest!
-0.01737, 0.01512, Positive, Positive, Right
-
-No.600    We know what Kim managed to do ...
-0.00467, 0.00510, Positive, Positive, Right
-
-No.601    It doesn't get any better
-0.00820, 0.00975, Positive, Positive, Right
-
-No.602    Wow
-0.00014, 0.00018, Positive, Positive, Right
-
-No.603    A masterpiece.
-0.00016, 0.00027, Positive, Positive, Right
-
-No.604    WOW, WHAT A WOMAN!
-0.00045, 0.00081, Positive, Positive, Right
-
-No.605    Masterpiece
-0.00014, 0.00018, Positive, Positive, Right
-
-No.606    Vince Gilligan is God
-0.00340, 0.00286, Positive, Positive, Right
-
-No.607    What a gargantuan, epic episode.
-0.00027, 0.00045, Positive, Positive, Right
-
-No.608    Kim isn't in the game, she IS the game
-0.01011, 0.00939, Positive, Positive, Right
-
-No.609    Better Call a Psychiatrist after this episode
-0.02019, 0.01754, Positive, Positive, Right
-
-No.610    A TV Masterpiece
-0.00128, 0.00081, Positive, Positive, Right
-
-No.611    Lalo is the man
-0.00096, 0.00107, Positive, Positive, Right
-
-No.612    An excellent season finale and sets up season 6 beautifully.
-0.00361, 0.00519, Positive, Positive, Right
-
-No.613    season 5 better than ever, season 6 will be something beautiful
-0.01024, 0.01047, Positive, Positive, Right
-
-No.614    Brilliant end to a near perfect season
-0.00634, 0.00438, Positive, Positive, Right
-
-No.615    "It wasn't me,it was Ignacio.."
-0.00014, 0.00063, Negative, Positive, Wrong
-
-No.616    The man, The Myth, The Legend
-0.00453, 0.00412, Positive, Positive, Right
-
-No.617    Perfect finale for season 5
-0.00214, 0.00573, Positive, Positive, Right
-
-No.618    NACHOOO
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.619    Nacho is Judas with Louis XIII
-0.00683, 0.00429, Positive, Positive, Right
-
-No.620    Pure gold on TV
-0.00133, 0.00089, Positive, Positive, Right
-
-No.621    A Great Finale which will lead to a hopefully Perfect Season 6
-0.00689, 0.00948, Positive, Positive, Right
-
-No.622    Something unforgivable are people Rating this any lower
-0.00477, 0.00483, Positive, Positive, Right
-
-No.623    Reasonable end for S5
-0.00292, 0.00197, Positive, Positive, Right
-
-No.624    Great as a setup but slightly underwhelming as a finale
-0.01093, 0.00877, Positive, Positive, Right
-
-No.625    Maybe the slightest bit underwhelming, but seems to be set up for an absolutely insane S6...
-0.00791, 0.00993, Positive, Positive, Right
-
-No.626    Why is Lalo so likeable?!
-0.00012, 0.00045, Positive, Positive, Right
-
-No.627    Not a 10
-0.00035, 0.00125, Positive, Positive, Right
-
-No.628    Underwhelming, but an excellent set-up for season 6
-0.00359, 0.00358, Positive, Positive, Right
-
-No.629    Season5
-0.00002, 0.00009, Negative, Positive, Wrong
-
-No.630    I loved it yes, but
-0.00151, 0.00063, Positive, Positive, Right
-
-No.631    Can Season 6 come out yet?
-0.00230, 0.00438, Positive, Positive, Right
-
-No.1    Set the stage for this new series
-0.00391, 0.00340, Positive, Negative, Wrong
-
-No.3    And You Will Atone
-0.00008, 0.00036, Negative, Negative, Right
-
-No.4    Boring
-0.00082, 0.00179, Positive, Negative, Wrong
-
-No.5    The brother needs to go
-0.01156, 0.01315, Positive, Negative, Wrong
-
-No.6    Slipping jimmy is back !
-0.00353, 0.00510, Positive, Negative, Wrong
-
-No.7    Great Season, Bad Finale
-0.00012, 0.00018, Positive, Negative, Wrong
-
-No.8    Jimmy realizes he needs adventure
-0.00277, 0.00412, Positive, Negative, Wrong
-
-No.9    What A Let Down
-0.00045, 0.00081, Positive, Negative, Wrong
-
-No.10    Slow-paced storytelling
-0.00051, 0.00045, Positive, Negative, Wrong
-
-No.11    Reminds me of Fargo
-0.00748, 0.00662, Positive, Negative, Wrong
-
-No.12    Not sure where they're going with this yet, but I am intrigued.
-0.02133, 0.01906, Positive, Negative, Wrong
-
-No.13    Hopeful
-0.00077, 0.00045, Positive, Negative, Wrong
-
-No.14    Basically pointless
-0.00031, 0.00125, Positive, Negative, Wrong
-
-No.15    Please stop these horribly far-fetched plans
-0.00430, 0.00322, Positive, Negative, Wrong
-
-No.16    I've had enough of the slow-burn approach.
-0.00039, 0.00018, Positive, Negative, Wrong
-
-No.17    A master-piece in how to complicate things without purpose.
-0.01650, 0.01351, Positive, Negative, Wrong
-
-No.18    Better Call Saul is getting lost parallel plots
-0.00336, 0.00447, Positive, Negative, Wrong
-
-No.19    More Breaking Bad tie-ins and an interesting ending.
-0.00020, 0.00098, Positive, Negative, Wrong
-
-No.20    Slow burner risks fizzling out if it doesn't pick up pace
-0.00581, 0.00778, Negative, Negative, Right
-
-No.21    Getting bogged down here...
-0.00190, 0.00206, Positive, Negative, Wrong
-
-No.22    great series overall but
-0.00979, 0.00904, Positive, Negative, Wrong
-
-No.23    Enough Chuckie/Michael McKean...
-0.00114, 0.00161, Positive, Negative, Wrong
-
-No.24    Not without it's highlights, Better Call Saul is having an identity crisis.
-0.00224, 0.00251, Positive, Negative, Wrong
-
-No.25    Letdown
-0.00186, 0.00143, Negative, Negative, Right
-
-No.26    Major letdown
-0.00345, 0.00447, Positive, Negative, Wrong
-
-No.27    Get to the Point
-0.00006, 0.00045, Positive, Negative, Wrong
-
-No.28    Time, Jimmy, and Chuck with a spoiler
-0.00752, 0.00447, Positive, Negative, Wrong
-
-No.29    I expected more from the beginning
-0.00002, 0.00009, Positive, Negative, Wrong
-
-No.30    Booooring !!!
-0.00131, 0.00286, Negative, Negative, Right
-
-No.31    Good but not great...
-0.00622, 0.00456, Positive, Negative, Wrong
-
-No.32    Better Call New Writers
-0.00938, 0.00716, Positive, Negative, Wrong
-
-No.33    Better Cancel Saul
-0.00006, 0.00027, Positive, Negative, Wrong
-
-No.34    good
-0.00139, 0.00161, Positive, Negative, Wrong
-
-No.35    A speed bump that redeems itself in the final quarter
-0.00707, 0.01083, Positive, Negative, Wrong
-
-No.36    Now that's how you do a show.
-0.00705, 0.00662, Negative, Negative, Right
-
-No.37    Staying improved from seasons 1 and 2, but still being highly overrated
-0.00593, 0.00412, Positive, Negative, Wrong
-
-No.38    Suspenseful but a bit slow
-0.00402, 0.00251, Positive, Negative, Wrong
-
-No.39    "A bullet to the head would be far too humane"
-0.00497, 0.00537, Positive, Negative, Wrong
-
-No.40    Build up episode!
-0.00308, 0.00492, Positive, Negative, Wrong
-
-No.41    Not believable
-0.00104, 0.00134, Positive, Negative, Wrong
-
-No.42    Mind officially blown
-0.00010, 0.00045, Positive, Negative, Wrong
-
-No.43    A developmental episode!
-0.00300, 0.00206, Negative, Negative, Right
-
-No.44    Blah episode
-0.00043, 0.00036, Negative, Negative, Right
-
-No.45    Improving even in the slow parts, but not sure if it can live down horrendous seasons 1-2
-0.01439, 0.01351, Positive, Negative, Wrong
-
-No.46    boring
-0.01172, 0.01029, Positive, Negative, Wrong
-
-No.47    Anti-Drama
-0.00308, 0.00206, Positive, Negative, Wrong
-
-No.48    Slip
-0.00493, 0.00456, Positive, Negative, Wrong
-
-No.49    Weird human interactions
-0.01246, 0.01262, Positive, Negative, Wrong
-
-No.50    Okay
-0.00020, 0.00045, Negative, Negative, Right
-
-No.51    Fall Episode 309
-0.01191, 0.01360, Positive, Negative, Wrong
-
-No.52    One step towards Saul Goodman, Two steps back towards Jimmy McGill
-0.00220, 0.00394, Positive, Negative, Wrong
-
-No.53    Electric switchboard
-0.00243, 0.00188, Negative, Negative, Right
-
-No.54    let down
-0.01705, 0.01584, Positive, Negative, Wrong
-
-No.55    The weakest episode of a great season
-0.00016, 0.00018, Positive, Negative, Wrong
-
-No.56    Spreading a weak plot too thin
-0.00122, 0.00134, Positive, Negative, Wrong
-
-No.57    Smoke
-0.01117, 0.00653, Positive, Negative, Wrong
-
-No.58    Nobody puts Chuck in a corner
-0.00575, 0.00671, Positive, Negative, Wrong
-
-No.59    I now review BCS in 4 parts: Gene, Saul-Kim-Howard-Chuck, Mike, and Gus
-0.00451, 0.00456, Positive, Negative, Wrong
-
-No.60    Smoke but no fire.
-0.00053, 0.00072, Positive, Negative, Wrong
-
-No.61    A filler episode!
-0.00161, 0.00188, Negative, Negative, Right
-
-No.62    And the same boring episodes return..
-0.00029, 0.00098, Positive, Negative, Wrong
-
-No.63    What a schnoozer!!
-0.00538, 0.00465, Negative, Negative, Right
-
-No.64    One of those Slow Ones that Will Be Good After The Season is Complete
-0.00071, 0.00063, Positive, Negative, Wrong
-
-No.65    Empty
-0.00020, 0.00045, Positive, Negative, Wrong
-
-No.66    Breathe
-0.00039, 0.00054, Positive, Negative, Wrong
-
-No.67    Better call it boring!
-0.00063, 0.00215, Positive, Negative, Wrong
-
-No.68    when will something happen??
-0.00159, 0.00063, Positive, Negative, Wrong
-
-No.69    Nothing but setup, no action, talking heads only
-0.00006, 0.00027, Positive, Negative, Wrong
-
-No.70    Decent, but nothing groundbreaking
-0.00475, 0.00492, Negative, Negative, Right
-
-No.71    Improving and picking up!
-0.00259, 0.00116, Negative, Negative, Right
-
-No.72    Something Beautiful
-0.01709, 0.01566, Positive, Negative, Wrong
-
-No.73    Nothing is happening..
-0.00020, 0.00009, Positive, Negative, Wrong
-
-No.74    WHAT are you all watching? Has the whole world gone insane?
-0.00067, 0.00072, Positive, Negative, Wrong
-
-No.75    Alright
-0.01582, 0.01718, Positive, Negative, Wrong
-
-No.76    100% garbage episode
-0.00322, 0.00313, Positive, Negative, Wrong
-
-No.77    There's lots of filler in this episode, but BCS rules at filler
-0.00027, 0.00036, Positive, Negative, Wrong
-
-No.78    Becoming too self-indulgent
-0.00002, 0.00009, Positive, Negative, Wrong
-
-No.79    Everything is happening at Snail's Pace
-0.00004, 0.00018, Positive, Negative, Wrong
-
-No.80    Talk - 404
-0.00483, 0.00626, Positive, Negative, Wrong
-
-No.81    When a TV show is more boring than your own life
-0.00783, 0.01244, Positive, Negative, Wrong
-
-No.82    I Give Up.
-0.01052, 0.00984, Positive, Negative, Wrong
-
-No.83    Too much focus on Kim Wexler
-0.00659, 0.00376, Positive, Negative, Wrong
-
-No.84    Better call Boring
-0.00659, 0.00376, Positive, Negative, Wrong
-
-No.85    Can it be more boring
-0.00298, 0.00098, Positive, Negative, Wrong
-
-No.86    Tip of the hat for being the closest vibe/feel to Breaking Bad yet.
-0.00371, 0.00546, Positive, Negative, Wrong
-
-No.87    Good, but not great.
-0.00031, 0.00018, Positive, Negative, Wrong
-
-No.88    We Get It... Kim Loves Jimmy... Now Move On
-0.01089, 0.01360, Positive, Negative, Wrong
-
-No.89    Quite a Ride
-0.00008, 0.00036, Positive, Negative, Wrong
-
-No.90    Filler episode
-0.00137, 0.00197, Negative, Negative, Right
-
-No.91    Starting to pick up
-0.00090, 0.00125, Positive, Negative, Wrong
-
-No.92    Come on...
-0.00449, 0.00537, Positive, Negative, Wrong
-
-No.93    Kim wexler is such an annoying character
-0.00069, 0.00072, Positive, Negative, Wrong
-
-No.94    Boring
-0.00012, 0.00027, Positive, Negative, Wrong
-
-No.95    confusion
-0.00410, 0.00179, Negative, Negative, Right
-
-No.96    Pinata
-0.00004, 0.00018, Negative, Negative, Right
-
-No.97    Boring boring and borrrrrriiiinnnggg
-0.00018, 0.00027, Positive, Negative, Wrong
-
-No.98    A show about nothing
-0.00281, 0.00555, Positive, Negative, Wrong
-
-No.99    Too much of Kim wexler
-0.01968, 0.01771, Positive, Negative, Wrong
-
-No.100    Kim Come Home
-0.00155, 0.00206, Positive, Negative, Wrong
-
-No.101    Something Stupid
-0.00691, 0.00483, Positive, Negative, Wrong
-
-No.102    38 minutes of NOTHING and 7 minutes of "almost nothing"
-0.00018, 0.00027, Positive, Negative, Wrong
-
-No.103    Boooooooring
-0.00016, 0.00027, Negative, Negative, Right
-
-No.104    Disaster
-0.00057, 0.00081, Negative, Negative, Right
-
-No.105    What a disappointment
-0.01904, 0.01700, Positive, Negative, Wrong
-
-No.106    Better call Kim Wexler
-0.00663, 0.00394, Positive, Negative, Wrong
-
-No.107    Yet another terrible episode in a staggering
-0.00022, 0.00009, Positive, Negative, Wrong
-
-No.108    Production quality
-0.00151, 0.00188, Positive, Negative, Wrong
-
-No.109    For the love of God get rid of Kim Wexler!
-0.00202, 0.00555, Positive, Negative, Wrong
-
-No.110    Right or Left arm?
-0.00940, 0.00805, Positive, Negative, Wrong
-
-No.111    Seriously BCS just hit rock bottom with this ep
-0.00010, 0.00009, Positive, Negative, Wrong
-
-No.112    Better call Kim Wexler
-0.00265, 0.00438, Positive, Negative, Wrong
-
-No.113    Coushatta
-0.01641, 0.01288, Negative, Negative, Right
-
-No.114    Pushing credibility
-0.00312, 0.00286, Positive, Negative, Wrong
-
-No.115    Very bad episode. Disappointing
-0.00383, 0.00367, Negative, Negative, Right
-
-No.116    Was Huell Babineaux worth all the fuss?
-0.01692, 0.01002, Positive, Negative, Wrong
-
-No.117    Its so damn slow.. zzzZZ
-0.02027, 0.01718, Positive, Negative, Wrong
-
-No.118    Better Call "How we spread the story over 5 seasons what we could have said in one episode" Saul
-0.00473, 0.00555, Positive, Negative, Wrong
-
-No.119    This episode can be skipped by binge watchers
-0.00318, 0.00215, Positive, Negative, Wrong
-
-No.120    Hmm...
-0.00059, 0.00054, Positive, Negative, Wrong
-
-No.121    Coushatta
-0.00114, 0.00259, Negative, Negative, Right
-
-No.122    Multiple layers
-0.00077, 0.00027, Negative, Negative, Right
-
-No.123    Episode 409
-0.00043, 0.00054, Negative, Negative, Right
-
-No.124    Just Okay; Not Sure Why The Hype for This Episode
-0.00049, 0.00036, Positive, Negative, Wrong
-
-No.125    Finally, a watchable episode
-0.00210, 0.00098, Positive, Negative, Wrong
-
-No.126    Come on people, this is not a 10/10
-0.01054, 0.00895, Positive, Negative, Wrong
-
-No.127    Saul is here and he is not pretty
-0.00742, 0.00537, Positive, Negative, Wrong
-
-No.128    Very good but not up to the usual BCS standard.
-0.00934, 0.01244, Positive, Negative, Wrong
-
-No.129    Lazy, dumb plot devices
-0.00143, 0.00098, Positive, Negative, Wrong
-
-No.130    Come on people this is not a 10.
-0.00249, 0.00206, Positive, Negative, Wrong
-
-No.131    50% off - its usual impeccable quality
-0.00259, 0.00412, Positive, Negative, Wrong
-
-No.132    A very weak and predictable scenario.
-0.00020, 0.00018, Positive, Negative, Wrong
-
-No.133    Worst episode so far....
-0.00055, 0.00036, Positive, Negative, Wrong
-
-No.134    Erm, what
-0.00181, 0.00197, Negative, Negative, Right
-
-No.135    What is the point in Kim Wexler?
-0.00084, 0.00107, Positive, Negative, Wrong
-
-No.136    No soul in Saul Goodman's story
-0.00516, 0.00814, Positive, Negative, Wrong
-
-No.137    50% Off
-0.00186, 0.00421, Negative, Negative, Right
-
-No.138    A better show than BB
-0.00224, 0.00233, Positive, Negative, Wrong
-
-No.139    5x04
-0.00632, 0.00653, Negative, Negative, Right
-
-No.140    Petty Gus?!?
-0.00049, 0.00036, Positive, Negative, Wrong
-
-No.141    It's just ok
-0.00206, 0.00161, Positive, Negative, Wrong
-
-No.142    Namaste
-0.01350, 0.01226, Negative, Negative, Right
-
-No.143    Addicted to nasty
-0.01798, 0.02183, Positive, Negative, Wrong
-
-No.144    Done
-0.00432, 0.00412, Positive, Negative, Wrong
-
-No.145    Wouldn't want a Kim working for me
-0.00020, 0.00045, Positive, Negative, Wrong
-
-No.146    Episode 505
-0.00096, 0.00036, Negative, Negative, Right
-
-No.147    The show has become a bit too self satisfied
-0.00563, 0.00626, Positive, Negative, Wrong
-
-No.148    Dedicated to Vince&Peter
-0.00353, 0.00233, Positive, Negative, Wrong
-
-No.149    5x05
-0.00288, 0.00206, Negative, Negative, Right
-
-No.150    Unfortunate
-0.00626, 0.00555, Negative, Negative, Right
-
-No.151    Worse and worse
-0.00031, 0.00036, Negative, Negative, Right
-
-No.152    People ARE Allowed to Give Negative Reviews: Especially for BAD Episodes
-0.00190, 0.00313, Positive, Negative, Wrong
-
-No.153    One of the quieter episodes of BCS
-0.00292, 0.00555, Positive, Negative, Wrong
-
-No.154    boring as always.
-0.00239, 0.00242, Positive, Negative, Wrong
-
-No.155    Ruining an excellent prequel
-0.01083, 0.01306, Positive, Negative, Wrong
-
-No.156    Not too bad
-0.00316, 0.00456, Negative, Negative, Right
-
-No.157    How the tables have turned
-0.00514, 0.00805, Positive, Negative, Wrong
-
-No.158    Mixed feelings
-0.00349, 0.00089, Positive, Negative, Wrong
-
-No.159    Underwhelming
-0.00086, 0.00170, Positive, Negative, Wrong
-
-No.160    could have been better
-0.00002, 0.00009, Positive, Negative, Wrong
-
-Prediction accuracy = 76.86%
+Prediction accuracy = 71.88%
