@@ -1,7 +1,3 @@
-#Rami bou Abboud
-#40043011
-#Comp 472 Summer 2021
-#A2 Zixi
 
 import math
 import re
